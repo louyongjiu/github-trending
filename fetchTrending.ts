@@ -21,16 +21,11 @@ async function fetchTrendingRepos() {
     const repos = response.data;
 
     let markdownContent = '## Trending Repositories\n\n';
+    markdownContent += '| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars |\n';
+    markdownContent += '|------------|-------------|----------|-------|-------|----------|---------------------|\n';
 
     repos.forEach(repo => {
-      markdownContent += `### [${repo.name}](${repo.url})\n\n`;
-      markdownContent += `- **Author:** [${repo.author}](${repo.url})\n`;
-      markdownContent += `- **Description:** ${repo.description}\n`;
-      markdownContent += `- **Language:** ${repo.language} ![${repo.languageColor}](https://via.placeholder.com/15/${repo.languageColor}/000000?text=+)\n`;
-      markdownContent += `- **Stars:** ${repo.stars}\n`;
-      markdownContent += `- **Forks:** ${repo.forks}\n`;
-      markdownContent += `- **Built By:** ${repo.builtBy.map(builder => `[${builder.username}](${builder.href})`).join(', ')}\n`;
-      markdownContent += `- **Current Period Stars:** ${repo.currentPeriodStars}\n\n`;
+      markdownContent += `| [${repo.author} / ${repo.name}](${repo.url}) | ${repo.description} | ${repo.language} | ${repo.stars} | ${repo.forks} | ${repo.builtBy.map(builder => `[${builder.username}](${builder.href})`).join(', ')} | ${repo.currentPeriodStars} |\n`;
     });
 
     const date = new Date().toISOString().split('T')[0];
