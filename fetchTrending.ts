@@ -25,7 +25,7 @@ async function fetchTrendingRepos() {
     markdownContent += '|------------|-------------|----------|-------|-------|----------|---------------------|\n';
 
     repos.forEach(repo => {
-      markdownContent += `| [${repo.author} / ${repo.name}](${repo.url}) | ${repo.description} | ${repo.language} | ${repo.stars} | ${repo.forks} | ${repo.builtBy.map(builder => `[${builder.username}](${builder.href})`).join(', ')} | ${repo.currentPeriodStars} |\n`;
+      markdownContent += `| [${repo.author}/${repo.name}](${repo.url}) | ${repo.description} | ${repo.language} | ${repo.stars} | ${repo.forks} | ${repo.builtBy.map(builder => `[${builder.username}](${builder.href})`).join(', ')} | ${repo.currentPeriodStars} |\n`;
     });
 
     const date = new Date().toISOString().split('T')[0];
