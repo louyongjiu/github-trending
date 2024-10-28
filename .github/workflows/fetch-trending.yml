@@ -3,7 +3,7 @@ name: Fetch Trending Repos
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '5 9 * * *'  # 每天 UTC 时间 09:05 运行
+    - cron: '5 1/8 * * *'  # 每天 UTC 时间 09:05 运行
 permissions:
   contents: write
 
