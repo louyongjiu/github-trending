@@ -35,3 +35,5 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Update trending repos - $timestamp"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
