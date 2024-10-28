@@ -1,6 +1,7 @@
 name: Fetch Trending Repos
 
 on:
+  workflow_dispatch:  # 允许手动触发
   schedule:
     - cron: '5 9 * * *'  # 每天 UTC 时间 09:05 运行
 
@@ -23,11 +24,8 @@ jobs:
     - name: Install dependencies
       run: pnpm install
 
-    - name: Compile TypeScript
-      run: pnpm exec tsc fetchTrending.ts
-
     - name: Run fetch script
-      run: node fetchTrending.js
+      run: pnpm exec ts-node fetchTrending.ts
 
     - name: Commit and push changes
       run: |
