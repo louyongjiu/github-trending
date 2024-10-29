@@ -3,7 +3,7 @@ name: Fetch Trending Repos
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '5 1/8 * * *'  # 每天 UTC 时间 09:05 运行
+    - cron: '5 0,4 * * *'  # 每天 UTC 时间 09:05 运行
 permissions:
   contents: write
 
@@ -17,8 +17,6 @@ jobs:
 
     - name: Set up Node.js
       uses: actions/setup-node@v3
-      with:
-        node-version: '20'
 
     - name: Install pnpm
       run: npm install -g pnpm
