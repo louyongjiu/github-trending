@@ -1,4 +1,4 @@
-name: Fetch Trending Repos
+name: Summarize By Month
 
 on:
   workflow_dispatch:  # 允许手动触发
