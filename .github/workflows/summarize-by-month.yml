@@ -1,0 +1,37 @@
+name: Fetch Trending Repos
+
+on:
+  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '35 0,4 * * *'  # 每天 UTC 时间 09:35 运行
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+
+    - name: Install pnpm
+      run: npm install -g pnpm
+
+    - name: Install dependencies
+      run: pnpm install
+
+    - name: Run fetch script
+      run: pnpm exec ts-node summarizeByMonth.ts
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add monthly-summaries/*.md
+        timestamp=$(date -u)
+        git commit -m "Summarize By Month - $timestamp"
+        git push
