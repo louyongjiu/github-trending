@@ -2,19 +2,22 @@ import fs from "fs";
 import path from "path";
 
 function summarizeByMonth() {
-    const inputDirectory = path.join(__dirname, 'trending'); // 输入目录
-    const outputDirectory = path.join(__dirname, 'monthly-summaries'); // 固定输出目录
-  
-    // 如果输出目录不存在，则创建
-    if (!fs.existsSync(outputDirectory)) {
-      fs.mkdirSync(outputDirectory);
-    }
-  
-    const files = fs.readdirSync(inputDirectory).filter(file => file.endsWith('.md'));
-
   // 获取当前时间的年月
   const currentDate = new Date();
   const currentYearMonth = currentDate.toISOString().slice(0, 7); // 格式为 "YYYY-MM"
+  const currentYear = currentYearMonth.slice(0, 4);
+  
+  const inputDirectory = path.join(__dirname, "trending", currentYear); // 输入目录
+  const outputDirectory = path.join(__dirname, "monthly-summaries"); // 固定输出目录
+
+  // 如果输出目录不存在，则创建
+  if (!fs.existsSync(outputDirectory)) {
+    fs.mkdirSync(outputDirectory);
+  }
+
+  const files = fs
+    .readdirSync(inputDirectory)
+    .filter((file) => file.endsWith(".md"));
 
   // 用于存储去重数据
   const uniqueRepos: { [key: string]: { date: string; line: string } } = {};
