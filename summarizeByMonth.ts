@@ -82,22 +82,23 @@ function summarizeByMonth() {
   markdownContent += dayHeaders.map(() => "---").join("|") + "|\n";
 
   // 填充数据
-  Object.values(uniqueRepos).forEach(({ line: repoLine, dates }) => {
-    const columns = repoLine
-      .split("|")
-      .slice(1, -1)
-      .map((col) => col.trim());
-    if (columns.length !== 7) return;
+Object.values(uniqueRepos)
+.sort((a, b) => b.dates.size - a.dates.size)  // 添加排序逻辑
+.forEach(({ line: repoLine, dates }) => {
+  const columns = repoLine
+    .split("|")
+    .slice(1, -1)
+    .map((col) => col.trim());
+  if (columns.length !== 7) return;
 
-    const dateChecks = dayHeaders.map((day) =>
-      dates.has(`${currentYearMonth}-${day}`) ? "✓" : ""
-    );
+  const dateChecks = dayHeaders.map((day) =>
+    dates.has(`${currentYearMonth}-${day}`) ? "✓" : ""
+  );
 
-    markdownContent += `| ${columns.join(" | ")} | ${
-      dates.size
-    } | ${dateChecks.join(" | ")} |\n`;
-  });
-
+  markdownContent += `| ${columns.join(" | ")} | ${
+    dates.size
+  } | ${dateChecks.join(" | ")} |\n`;
+});
   const fileName = path.join(outputDirectory, `${currentYearMonth}.md`);
   fs.writeFileSync(fileName, markdownContent);
   console.log(`Markdown file ${fileName} created successfully.`);
