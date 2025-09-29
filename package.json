@@ -4,7 +4,8 @@
   "description": "Fetch trending GitHub repositories and save as Markdown.",
   "main": "index.js",
   "scripts": {
-    "test": "pnpm exec ts-node summarizeByMonth.ts"
+    "monthly": "pnpm exec ts-node summarizeByMonth.ts",
+    "yearly": "pnpm exec ts-node summarizeByYear.ts"
   },
   "keywords": [],
   "author": "",

@@ -30,8 +30,8 @@ async function fetchTrendingRepos() {
 
     repos.forEach((repo) => {
       markdownContent += `| [${repo.author}/${repo.name}](${repo.url}) | ${
-        repo.description
-      } | ${repo.language} | ${repo.stars} | ${repo.forks} | ${repo.builtBy
+        repo.description.replace(/\|/g, " ")
+      } | ${repo.language} | ${repo.forks} | ${repo.builtBy
         .map((builder) => `[${builder.username}](${builder.href})`)
         .join(", ")} | ${repo.currentPeriodStars} |\n`;
     });
