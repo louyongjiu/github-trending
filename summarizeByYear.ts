@@ -1,6 +1,19 @@
 import fs from "fs";
 import path from "path";
 
+// 数据清洗函数：处理描述字段中的管道符
+function cleanTableRow(row: string): string {
+  const columns = row.split('|');
+  if (columns.length < 3) return row;
+  
+  // 只清洗描述字段（通常是第3列，index=2），替换为短横线而非空格
+  if (columns.length > 2) {
+    columns[2] = columns[2].replace(/\|/g, '-');
+  }
+  
+  return columns.join('|');
+}
+
 function summarizeByYear() {
   // 获取当前时间的年份
   const currentDate = new Date();
@@ -83,13 +96,16 @@ function summarizeByYear() {
         const repoIdentifier = columns[1];
         if (!repoIdentifier || repoIdentifier === "") continue;
         
+        // 数据清洗：处理描述字段中的管道符，防止破坏Markdown表格格式
+        const cleanedLine = cleanTableRow(line);
+        
         // 如果是第一次遇到这个仓库
         if (!uniqueRepos[repoIdentifier]) {
           uniqueRepos[repoIdentifier] = {
             firstAppearanceMonth: fileYearMonth,
             firstAppearanceDate: fileDateStr,
             latestDate: fileDateStr,
-            line: line,
+            line: cleanedLine,
             totalDays: 1,
             months: new Set([fileYearMonth])
           };
@@ -102,7 +118,7 @@ function summarizeByYear() {
           const existingDate = new Date(uniqueRepos[repoIdentifier].latestDate);
           if (currentDate > existingDate) {
             uniqueRepos[repoIdentifier].latestDate = fileDateStr;
-            uniqueRepos[repoIdentifier].line = line;
+            uniqueRepos[repoIdentifier].line = cleanedLine;
           }
         }
       }
@@ -119,7 +135,7 @@ function summarizeByYear() {
   markdownContent += "| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars | First Appearance Month | Days Active | Months Covered |\n";
   markdownContent += "|------------|-------------|----------|-------|-------|----------|---------------------|----------------------|-------------|----------------|\n";
 
-  // 按首次出现月份升序排列
+  // 按首次出现月份升序排列，相同月份则按首次出现日期排序，最后按活跃天数降序排序
   const sortedRepos = Object.entries(uniqueRepos).sort((a, b) => {
     const monthA = a[1].firstAppearanceMonth;
     const monthB = b[1].firstAppearanceMonth;
@@ -127,7 +143,11 @@ function summarizeByYear() {
       return monthA.localeCompare(monthB);
     }
     // 如果月份相同，按首次出现日期排序
-    return a[1].firstAppearanceDate.localeCompare(b[1].firstAppearanceDate);
+    if (a[1].firstAppearanceDate !== b[1].firstAppearanceDate) {
+      return a[1].firstAppearanceDate.localeCompare(b[1].firstAppearanceDate);
+    }
+    // 如果首次出现日期也相同，按活跃天数降序排列
+    return b[1].totalDays - a[1].totalDays;
   });
 
   sortedRepos.forEach(([repoIdentifier, repoData]) => {
@@ -137,12 +157,30 @@ function summarizeByYear() {
       .slice(1, -1)
       .map((col) => col.trim());
     
-    if (columns.length < 7) return;
+    // 支持不同列数格式，最少需要5列（Repository, Description, Language, Stars, Built By）
+    if (columns.length < 5) {
+      console.warn(`跳过格式不正确的行: ${repoLine}`);
+      return;
+    }
+
+    let processedColumns = [...columns];
+    
+    // 根据列数调整格式以匹配标准的7列输出
+    if (columns.length === 5) {
+      // 5列格式：Repository | Description | Language | Stars | Built By
+      // 插入 Forks 和 Current Period Stars 列
+      processedColumns.splice(4, 0, "", ""); // 在 Built By 前插入 Forks 和 Current Period Stars
+    } else if (columns.length === 6) {
+      // 6列格式：Repository | Description | Language | Stars | Built By | Current Period Stars
+      // 插入 Forks 列
+      processedColumns.splice(4, 0, ""); // 在 Built By 前插入 Forks
+    }
+    // 7列格式已经是标准格式，不需要调整
 
     // 格式化首次出现月份显示
     const formattedMonth = firstAppearanceMonth; // 保持 YYYY-MM 格式
     
-    markdownContent += `| ${columns.join(" | ")} | ${formattedMonth} | ${totalDays} | ${months.size} |\n`;
+    markdownContent += `| ${processedColumns.join(" | ")} | ${formattedMonth} | ${totalDays} | ${months.size} |\n`;
   });
 
   // 添加月度统计信息

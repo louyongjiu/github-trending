@@ -1,6 +1,19 @@
 import fs from "fs";
 import path from "path";
 
+// 数据清洗函数：处理描述字段中的管道符
+function cleanTableRow(row: string): string {
+  const columns = row.split('|');
+  if (columns.length < 3) return row;
+  
+  // 只清洗描述字段（通常是第3列，index=2），替换为短横线而非空格
+  if (columns.length > 2) {
+    columns[2] = columns[2].replace(/\|/g, '-');
+  }
+  
+  return columns.join('|');
+}
+
 function summarizeByMonth() {
   // 获取当前时间的年月
   const currentDate = new Date();
@@ -87,12 +100,15 @@ function summarizeByMonth() {
         const repoIdentifier = columns[1];
         if (!repoIdentifier || repoIdentifier === "") continue;
         
+        // 数据清洗：处理描述字段中的管道符，防止破坏Markdown表格格式
+        const cleanedLine = cleanTableRow(line);
+        
         // 如果当前记录比已存储的记录更新，则替换
         if (!uniqueRepos[repoIdentifier]) {
           uniqueRepos[repoIdentifier] = {
             dates: new Set([fileDateStr]),
             latestDate: fileDateStr, // 存储日期
-            line: line, // 存储 Markdown 表格行
+            line: cleanedLine, // 存储 Markdown 表格行
           };
         } else {
           uniqueRepos[repoIdentifier].dates.add(fileDateStr);
@@ -100,7 +116,7 @@ function summarizeByMonth() {
           const existingDate = new Date(uniqueRepos[repoIdentifier].latestDate);
           if (currentFileDate > existingDate) {
             uniqueRepos[repoIdentifier].latestDate = fileDateStr;
-            uniqueRepos[repoIdentifier].line = line;
+            uniqueRepos[repoIdentifier].line = cleanedLine;
           }
         }
       }
@@ -118,21 +134,47 @@ function summarizeByMonth() {
     "|------------|-------------|----------|-------|-------|----------|---------------------|------|";
   markdownContent += dayHeaders.map(() => "---").join("|") + "|\n";
 
-  // 填充数据
+  // 填充数据 - 按活跃天数排序，活跃天数相同则按最新出现日期排序
   Object.values(uniqueRepos)
-    .sort((a, b) => b.dates.size - a.dates.size)  // 添加排序逻辑
+    .sort((a, b) => {
+      // 首先按活跃天数降序排列
+      if (b.dates.size !== a.dates.size) {
+        return b.dates.size - a.dates.size;
+      }
+      // 活跃天数相同时，按最新出现日期降序排列
+      return b.latestDate.localeCompare(a.latestDate);
+    })
     .forEach(({ line: repoLine, dates }) => {
       const columns = repoLine
         .split("|")
         .slice(1, -1)
         .map((col) => col.trim());
-      if (columns.length !== 7) return;
+      
+      // 支持不同列数格式，最少需要5列
+      if (columns.length < 5) {
+        console.warn(`跳过格式不正确的行: ${repoLine}`);
+        return;
+      }
+
+      let processedColumns = [...columns];
+      
+      // 根据列数调整格式以匹配标准的7列输出
+      if (columns.length === 5) {
+        // 5列格式：Repository | Description | Language | Stars | Built By
+        // 插入 Forks 和 Current Period Stars 列
+        processedColumns.splice(4, 0, "", ""); // 在 Built By 前插入 Forks 和 Current Period Stars
+      } else if (columns.length === 6) {
+        // 6列格式：Repository | Description | Language | Stars | Built By | Current Period Stars
+        // 插入 Forks 列
+        processedColumns.splice(4, 0, ""); // 在 Built By 前插入 Forks
+      }
+      // 7列格式已经是标准格式，不需要调整
 
       const dateChecks = dayHeaders.map((day) =>
         dates.has(`${currentYearMonth}-${day}`) ? "✓" : ""
       );
 
-      markdownContent += `| ${columns.join(" | ")} | ${
+      markdownContent += `| ${processedColumns.join(" | ")} | ${
         dates.size
       } | ${dateChecks.join(" | ")} |\n`;
     });
