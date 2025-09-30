@@ -3,7 +3,7 @@ name: Summarize By Year
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '35 1,5 * * *'  # 
+    - cron: '45 4 * * *'  # 
 permissions:
   contents: write
 

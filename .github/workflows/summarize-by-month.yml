@@ -3,7 +3,7 @@ name: Summarize By Month
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '35 0,4 * * *'  # 每天 UTC 时间 09:35 运行
+    - cron: '35 4 * * *'  # 每天 UTC 时间 09:35 运行
 permissions:
   contents: write
 
