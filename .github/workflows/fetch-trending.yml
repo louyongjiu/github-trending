@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 jobs:
-  fetch-and-save:
+  fetch-daily:
     runs-on: ubuntu-latest
 
     steps:

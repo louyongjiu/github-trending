@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 jobs:
-  summarize-yearly:
+  summary:
     runs-on: ubuntu-latest
 
     steps:
