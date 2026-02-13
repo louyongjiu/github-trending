@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import type { RepoData } from "./types";
 
 // 数据清洗函数：处理描述字段中的管道符
 function cleanTableRow(row: string): string {
@@ -14,42 +15,28 @@ function cleanTableRow(row: string): string {
   return columns.join('|');
 }
 
-type RepoData = {
-  firstAppearanceMonth: string;
-  firstAppearanceDate: string;
-  latestDate: string;
-  line: string;
-  totalDays: number;
-  months: Set<string>;
-};
+// 汇总表格表头与分隔符，供 buildSummaryTable 与文档生成复用
+const SUMMARY_TABLE_HEADER =
+  "| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars | First Appearance Month | Days Active | Months Covered |\n";
+const SUMMARY_TABLE_SEPARATOR =
+  "|------------|-------------|----------|-------|-------|----------|---------------------|----------------------|-------------|----------------|\n";
 
-// 根据一批 repo 条目生成表格 body（表头由调用方拼接）
-function buildSummaryTable(
-  sortedRepos: Array<[string, RepoData]>
-): string {
-  const tableHeader =
-    "| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars | First Appearance Month | Days Active | Months Covered |\n";
-  const tableSeparator =
-    "|------------|-------------|----------|-------|-------|----------|---------------------|----------------------|-------------|----------------|\n";
-  let body = "";
-  sortedRepos.forEach(([, repoData]) => {
+function buildSummaryTable(sortedRepos: Array<[string, RepoData]>): string {
+  const rows: string[] = [];
+  for (const [, repoData] of sortedRepos) {
     const { line: repoLine, firstAppearanceMonth, totalDays, months } = repoData;
     const columns = repoLine
       .split("|")
       .slice(1, -1)
       .map((col) => col.trim());
-    if (columns.length < 5) {
-      return;
-    }
-    let processedColumns = [...columns];
-    if (columns.length === 5) {
-      processedColumns.splice(4, 0, "", "");
-    } else if (columns.length === 6) {
+    if (columns.length < 5) continue;
+    const processedColumns = [...columns];
+    while (processedColumns.length < 7) {
       processedColumns.splice(4, 0, "");
     }
-    body += `| ${processedColumns.join(" | ")} | ${firstAppearanceMonth} | ${totalDays} | ${months.size} |\n`;
-  });
-  return tableHeader + tableSeparator + body;
+    rows.push(`| ${processedColumns.join(" | ")} | ${firstAppearanceMonth} | ${totalDays} | ${months.size} |\n`);
+  }
+  return SUMMARY_TABLE_HEADER + SUMMARY_TABLE_SEPARATOR + rows.join("");
 }
 
 function summary(year?: string) {
@@ -73,53 +60,35 @@ function summary(year?: string) {
     .sort(); // 日数据文件名为 YYYY-MM-DD.md，按文件名排序
 
   // 用于存储去重数据
-  const uniqueRepos: {
-    [key: string]: {
-      firstAppearanceMonth: string;
-      firstAppearanceDate: string;
-      latestDate: string;
-      line: string;
-      totalDays: number;
-      months: Set<string>;
-    };
-  } = {};
+  const uniqueRepos: Record<string, RepoData> = {};
 
-  files.forEach((file) => {
+  for (const file of files) {
     // 日数据文件名为 YYYY-MM-DD.md
     const fileDateStr = file.split(".")[0]; // 提取 "YYYY-MM-DD"
     const fileYearMonth = fileDateStr.slice(0, 7); // 提取 "YYYY-MM"
     const fileYear = fileDateStr.slice(0, 4); // 提取 "YYYY"
 
     // 只处理当前年份的文件
-    if (fileYear === currentYear) {
-      const filePath = path.join(inputDirectory, file);
-      
-      if (!fs.existsSync(filePath)) {
-        console.warn(`File ${filePath} does not exist, skipping.`);
-        return;
-      }
+    if (fileYear !== currentYear) continue;
 
-      const content = fs.readFileSync(filePath, "utf-8");
+    const filePath = path.join(inputDirectory, file);
+    const content = fs.readFileSync(filePath, "utf-8");
 
-      // 解析 Markdown 表格内容
-      const lines = content.split("\n");
-      
-      // 查找表格开始位置（跳过表头和分隔符）
-      let tableStartIndex = -1;
-      for (let i = 0; i < lines.length; i++) {
-        if (lines[i].includes("|------------|")) {
-          tableStartIndex = i + 1;
-          break;
-        }
-      }
-      
-      if (tableStartIndex === -1) {
-        console.warn(`No table found in file ${file}, skipping.`);
-        return;
-      }
+    // 解析 Markdown 表格内容
+    const lines = content.split("\n");
 
-      // 处理表格数据行
-      for (let i = tableStartIndex; i < lines.length; i++) {
+    // 查找表格开始位置（跳过表头和分隔符）
+    const tableStartIndex = lines.findIndex((line) =>
+      line.includes("|------------|")
+    );
+    if (tableStartIndex === -1) {
+      console.warn(`No table found in file ${file}, skipping.`);
+      continue;
+    }
+    const dataStartIndex = tableStartIndex + 1;
+
+    // 处理表格数据行
+    for (let i = dataStartIndex; i < lines.length; i++) {
         const line = lines[i];
         if (line.trim() === "" || !line.includes("|")) continue; // 跳过空行和非表格行
         
@@ -155,9 +124,8 @@ function summary(year?: string) {
             uniqueRepos[repoIdentifier].line = cleanedLine;
           }
         }
-      }
     }
-  });
+  }
 
   // 无数据时不创建输出目录和文件
   if (Object.keys(uniqueRepos).length === 0) {
@@ -181,32 +149,28 @@ function summary(year?: string) {
     return b[1].totalDays - a[1].totalDays;
   });
 
-  // 生成当前年份的 Markdown 文件（年度汇总）
-  let markdownContent = `# ${currentYear} Annual GitHub Trending Repositories Summary\n\n`;
-  markdownContent += `> Summary Date: ${currentDate.toLocaleDateString('en-US')}\n\n`;
-  markdownContent += `## Statistics Overview\n\n`;
-  markdownContent += `- Total Repositories: ${Object.keys(uniqueRepos).length}\n`;
-  markdownContent += `- Summary Year: ${currentYear}\n\n`;
-  markdownContent += "## Repository List\n\n";
-  markdownContent += buildSummaryTable(sortedRepos);
-
-  // 添加月度统计信息
-  markdownContent += "\n## Monthly Distribution Statistics\n\n";
+  // 月度分布统计（年度汇总用）
   const monthlyStats: { [month: string]: number } = {};
-  
-  Object.values(uniqueRepos).forEach(repo => {
+  Object.values(uniqueRepos).forEach((repo) => {
     const month = repo.firstAppearanceMonth;
     monthlyStats[month] = (monthlyStats[month] || 0) + 1;
   });
-
-  markdownContent += "| Month | First Appearance Count |\n";
-  markdownContent += "|-------|------------------------|\n";
-  
-  Object.keys(monthlyStats)
+  const monthlyTableRows = Object.keys(monthlyStats)
     .sort()
-    .forEach(month => {
-      markdownContent += `| ${month} | ${monthlyStats[month]} |\n`;
-    });
+    .map((month) => `| ${month} | ${monthlyStats[month]} |`);
+  const monthlyTable =
+    "| Month | First Appearance Count |\n" +
+    "|-------|------------------------|\n" +
+    monthlyTableRows.join("\n");
+
+  // 生成当前年份的 Markdown 文件（年度汇总）
+  const annualSections = [
+    `# ${currentYear} Annual GitHub Trending Repositories Summary\n\n> Summary Date: ${currentDate.toLocaleDateString("en-US")}`,
+    `## Statistics Overview\n\n- Total Repositories: ${Object.keys(uniqueRepos).length}\n- Summary Year: ${currentYear}`,
+    "## Repository List\n\n" + buildSummaryTable(sortedRepos),
+    "## Monthly Distribution Statistics\n\n" + monthlyTable,
+  ];
+  const markdownContent = annualSections.join("\n\n");
 
   const annualFilePath = path.join(outputDirectory, `${currentYear}-summary.md`);
   fs.writeFileSync(annualFilePath, markdownContent);
@@ -226,12 +190,12 @@ function summary(year?: string) {
     const [, month] = yearMonth.split("-");
     const monthFilePath = path.join(outputDirectory, `${currentYear}-${month}.md`);
     const monthTitle = `${currentYear}年${month}月 GitHub Trending 首次出现仓库汇总`;
-    let monthContent = `# ${monthTitle}\n\n`;
-    monthContent += `> Summary Date: ${currentDate.toLocaleDateString("en-US")}\n\n`;
-    monthContent += `## Statistics Overview\n\n`;
-    monthContent += `- First Appearance Count (本月): ${monthRepos.length}\n\n`;
-    monthContent += "## Repository List\n\n";
-    monthContent += buildSummaryTable(monthRepos);
+    const monthSections = [
+      `# ${monthTitle}\n\n> Summary Date: ${currentDate.toLocaleDateString("en-US")}`,
+      `## Statistics Overview\n\n- First Appearance Count (本月): ${monthRepos.length}`,
+      "## Repository List\n\n" + buildSummaryTable(monthRepos),
+    ];
+    const monthContent = monthSections.join("\n\n");
     fs.writeFileSync(monthFilePath, monthContent);
     console.log(`月度汇总文件 ${monthFilePath} 创建成功！`);
   }

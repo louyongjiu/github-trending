@@ -1,19 +1,7 @@
 import fs from "fs";
 import path from "path";
 import axios from "axios";
-
-interface Repo {
-  name: string;
-  url: string;
-  author: string;
-  description: string;
-  language: string;
-  languageColor: string;
-  stars: number;
-  forks: number;
-  builtBy: { username: string; href: string }[];
-  currentPeriodStars: number;
-}
+import type { Repo } from "./types";
 
 async function fetchTrendingRepos() {
   try {
@@ -22,19 +10,21 @@ async function fetchTrendingRepos() {
     );
     const repos = response.data;
 
-    let markdownContent = "## Trending Repositories\n\n";
-    markdownContent +=
+    const tableHeader =
       "| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars |\n";
-    markdownContent +=
+    const tableSeparator =
       "|------------|-------------|----------|-------|-------|----------|---------------------|\n";
+    const tableRows = repos
+      .map((repo) => {
+        const builtBy = (repo.builtBy ?? [])
+          .map((builder) => `[${builder.username}](${builder.href})`)
+          .join(", ");
+        return `| [${repo.author}/${repo.name}](${repo.url}) | ${repo.description.replace(/\|/g, " ")} | ${repo.language ?? ""} | ${repo.stars} | ${repo.forks} | ${builtBy} | ${repo.currentPeriodStars} |\n`;
+      })
+      .join("");
 
-    repos.forEach((repo) => {
-      markdownContent += `| [${repo.author}/${repo.name}](${repo.url}) | ${
-        repo.description.replace(/\|/g, " ")
-      } | ${repo.language} | ${repo.forks} | ${repo.builtBy
-        .map((builder) => `[${builder.username}](${builder.href})`)
-        .join(", ")} | ${repo.currentPeriodStars} |\n`;
-    });
+    const markdownContent =
+      "## Trending Repositories\n\n" + tableHeader + tableSeparator + tableRows;
 
     const date = new Date().toISOString().split("T")[0];
     const currentYear = date.slice(0, 4);
@@ -45,6 +35,7 @@ async function fetchTrendingRepos() {
     console.log(`Markdown file ${fileName} created successfully.`);
   } catch (error) {
     console.error("Error fetching trending repositories:", error);
+    process.exit(1);
   }
 }
 
