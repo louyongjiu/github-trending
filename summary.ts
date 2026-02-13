@@ -52,12 +52,12 @@ function buildSummaryTable(
   return tableHeader + tableSeparator + body;
 }
 
-function summarizeByYear(year?: string) {
+function summary(year?: string) {
   const currentDate = new Date();
   const currentYear = year ?? currentDate.getFullYear().toString();
 
-  const inputDirectory = path.join(__dirname, "trending", currentYear); // 输入目录
-  const outputDirectory = path.join(__dirname, "yearly-summaries", currentYear); // 年度汇总输出目录（年份子目录）
+  const inputDirectory = path.join(__dirname, "trending", currentYear, "daily"); // 日数据目录
+  const outputDirectory = path.join(__dirname, "trending", currentYear, "summary"); // 汇总输出目录
 
   // 根输出目录在首次写入前创建；年份子目录在确有数据时再创建
 
@@ -69,8 +69,8 @@ function summarizeByYear(year?: string) {
 
   const files = fs
     .readdirSync(inputDirectory)
-    .filter((file) => file.endsWith(".md"))
-    .sort(); // 按文件名排序，确保按时间顺序处理
+    .filter((file) => /^\d{4}-\d{2}-\d{2}\.md$/.test(file))
+    .sort(); // 日数据文件名为 YYYY-MM-DD.md，按文件名排序
 
   // 用于存储去重数据
   const uniqueRepos: {
@@ -85,8 +85,8 @@ function summarizeByYear(year?: string) {
   } = {};
 
   files.forEach((file) => {
-    // 提取文件名中的日期部分（格式为 "trending-YYYY-MM-DD.md"）
-    const fileDateStr = file.split(".")[0].split("-").slice(1).join("-"); // 提取 "YYYY-MM-DD"
+    // 日数据文件名为 YYYY-MM-DD.md
+    const fileDateStr = file.split(".")[0]; // 提取 "YYYY-MM-DD"
     const fileYearMonth = fileDateStr.slice(0, 7); // 提取 "YYYY-MM"
     const fileYear = fileDateStr.slice(0, 4); // 提取 "YYYY"
 
@@ -239,10 +239,10 @@ function summarizeByYear(year?: string) {
   console.log(`共汇总了 ${Object.keys(uniqueRepos).length} 个仓库的数据`);
 }
 
-// 如果直接运行此文件，则执行汇总；支持传入年份参数，如 npx ts-node summarizeByYear.ts 2025
+// 如果直接运行此文件，则执行汇总；支持传入年份参数，如 npx ts-node summary.ts 2025
 if (require.main === module) {
   const yearArg = process.argv[2];
-  summarizeByYear(yearArg);
+  summary(yearArg);
 }
 
-export { summarizeByYear };
+export { summary };

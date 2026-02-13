@@ -25,7 +25,7 @@ jobs:
       run: pnpm install
 
     - name: Run yearly summarize script
-      run: pnpm exec ts-node summarizeByYear.ts
+      run: pnpm exec ts-node summary.ts
 
     - name: Commit and push changes
       run: |

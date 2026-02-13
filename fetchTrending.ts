@@ -38,11 +38,9 @@ async function fetchTrendingRepos() {
 
     const date = new Date().toISOString().split("T")[0];
     const currentYear = date.slice(0, 4);
-    const directory = path.join(__dirname, "trending", currentYear);
-    if (!fs.existsSync(directory)) {
-      fs.mkdirSync(directory);
-    }
-    const fileName = path.join(directory, `trending-${date}.md`);
+    const directory = path.join(__dirname, "trending", currentYear, "daily");
+    fs.mkdirSync(directory, { recursive: true });
+    const fileName = path.join(directory, `${date}.md`);
     fs.writeFileSync(fileName, markdownContent);
     console.log(`Markdown file ${fileName} created successfully.`);
   } catch (error) {
