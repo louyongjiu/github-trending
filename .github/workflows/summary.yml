@@ -1,9 +1,9 @@
-name: Summarize By Year
+name: Trending Summary
 
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
-    - cron: '45 4 * * *'  # 
+    - cron: '45 4 * * *'  # 每天 UTC 04:45 运行
 permissions:
   contents: write
 
@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add yearly-summaries/*.md
+        git add trending/*/summary/*.md
         timestamp=$(date -u)
         git commit -m "Summarize By Year - $timestamp"
         git push
