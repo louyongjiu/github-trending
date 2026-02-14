@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import {
-  DAILY_TABLE_COLUMN_COUNT,
+  MIN_COLUMNS_FOR_SUMMARY,
   SUMMARY_TABLE_HEADER,
   SUMMARY_TABLE_SEPARATOR,
 } from "./constants";
@@ -27,8 +27,8 @@ function buildSummaryTable(sortedRepos: Array<[string, RepoData]>): string {
       .split("|")
       .slice(1, -1)
       .map((col) => col.trim());
-    if (columns.length < DAILY_TABLE_COLUMN_COUNT) continue;
-    // 日表 7 列：Repository, Description, Language, Stars, Forks, Built By, Current Period Stars；汇总只取前 4 列 + 聚合字段
+    if (columns.length < MIN_COLUMNS_FOR_SUMMARY) continue;
+    // 日表可能 5/6/7 列；汇总只取前 4 列（Repository, Description, Language, Stars）+ 聚合字段
     const [repo, desc, lang, stars] = columns;
     const summaryColumns = [
       repo,
@@ -117,12 +117,19 @@ function summary(year?: string) {
           // 更新统计信息
           uniqueRepos[repoIdentifier].months.add(fileYearMonth);
           uniqueRepos[repoIdentifier].totalDays++;
-          
+
           const currentDate = new Date(fileDateStr);
           const existingDate = new Date(uniqueRepos[repoIdentifier].latestDate);
+          const colCount = cleanedLine
+            .split("|")
+            .map((c) => c.trim())
+            .slice(1, -1).length;
+          // 仅当新行列数足够（>=5）且日期更新时，才覆盖 line，兼容 5/6/7 列日表
           if (currentDate > existingDate) {
             uniqueRepos[repoIdentifier].latestDate = fileDateStr;
-            uniqueRepos[repoIdentifier].line = cleanedLine;
+            if (colCount >= MIN_COLUMNS_FOR_SUMMARY) {
+              uniqueRepos[repoIdentifier].line = cleanedLine;
+            }
           }
         }
     }
