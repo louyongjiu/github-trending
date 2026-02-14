@@ -50,7 +50,7 @@
 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | Shell | 9640 | 2025-01-04 | 40 | 7 |
 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. | Go | 10067 | 2025-01-04 | 12 | 5 |
 | [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. | Python | 23718 | 2025-01-04 | 5 | 2 |
-| [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) | Space and Time Proof of SQL | Rust | 4576 | 2025-01-04 | 3 | 1 |
+| [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) | Space and Time  Proof of SQL | Rust | 4576 | 2025-01-04 | 3 | 1 |
 | [loco-rs/loco](https://github.com/loco-rs/loco) | 🚂 🦀 The one-person framework for Rust for side-projects and startups | Rust | 6361 | 2025-01-04 | 3 | 1 |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |  | 41270 | 2025-01-05 | 10 | 3 |
 | [microsoft/terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | C++ | 8864 | 2025-01-05 | 9 | 6 |
@@ -83,7 +83,7 @@
 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | TypeScript | 19219 | 2025-01-09 | 25 | 8 |
 | [traefik/traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | Go | 5692 | 2025-01-09 | 24 | 3 |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! | Python | 3506 | 2025-01-09 | 14 | 3 |
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | An MCP-based chatbot 一个基于MCP的聊天机器人 | C++ | 4026 | 2025-01-09 | 10 | 4 |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | An MCP-based chatbot   一个基于MCP的聊天机器人 | C++ | 4026 | 2025-01-09 | 10 | 4 |
 | [inkonchain/docs](https://github.com/inkonchain/docs) | Ink Documentation | MDX | 35945 | 2025-01-09 | 5 | 2 |
 | [inkonchain/node](https://github.com/inkonchain/node) | How to run an Ink Node | Shell | 20054 | 2025-01-09 | 3 | 1 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 36857 | 2025-01-10 | 7 | 4 |
@@ -847,7 +847,7 @@
 | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. | PHP | 7233 | 2025-07-01 | 1 | 1 |
 | [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP | Go | 1238 | 2025-07-01 | 1 | 1 |
 | [visgl/deck.gl](https://github.com/visgl/deck.gl) | WebGL2 powered visualization framework | TypeScript | 13200 | 2025-07-01 | 1 | 1 |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 评论爬虫、抖音视频 评论爬虫、快手视频 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 知乎问答文章｜评论爬虫 | Python | 9164 | 2025-07-02 | 7 | 2 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫   知乎问答文章｜评论爬虫 | Python | 9164 | 2025-07-02 | 7 | 2 |
 | [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | A Collection of application ideas that can be used to improve your coding skills ❤. |  | 8189 | 2025-07-02 | 3 | 1 |
 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | AdminLTE - Free admin dashboard template based on Bootstrap 5 | CSS | 44777 | 2025-07-02 | 1 | 1 |
 | [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! | Python | 8755 | 2025-07-03 | 5 | 2 |
@@ -928,7 +928,7 @@
 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | Ruby | 36683 | 2025-07-18 | 1 | 1 |
 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. | JavaScript | 36295 | 2025-07-19 | 6 | 1 |
 | [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | Agent Framework / shim to use Pydantic with LLMs | Python | 11044 | 2025-07-19 | 1 | 1 |
-| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation Always up-to-date and works with the latest build of Windows Provides tools and Guides for Personal, Enterprise, Government and Military security levels SLSA Level 3 Compliant for Secure Development and Build Process Apps Available on MS Store✨ | C# | 280 | 2025-07-20 | 3 | 2 |
+| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation   Always up-to-date and works with the latest build of Windows   Provides tools and Guides for Personal, Enterprise, Government and Military security levels   SLSA Level 3 Compliant for Secure Development and Build Process   Apps Available on MS Store✨ | C# | 280 | 2025-07-20 | 3 | 2 |
 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. | Go | 15571 | 2025-07-20 | 2 | 1 |
 | [bknd-io/bknd](https://github.com/bknd-io/bknd) | Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more. | TypeScript | 2876 | 2025-07-20 | 2 | 1 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server | Go | 18027 | 2025-07-20 | 1 | 1 |
@@ -1217,10 +1217,10 @@
 | [imputnet/helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser | Python | 3563 | 2025-09-28 | 1 | 1 |
 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | A Datacenter Scale Distributed Inference Serving Framework | Rust | 5154 | 2025-09-28 | 1 | 1 |
 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | Ruby | 36574 | 2025-09-29 | 1 | 1 |
-| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 | Go | 232 | 2025-09-30 | 3 | 2 |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report   屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 | Go | 232 | 2025-09-30 | 3 | 2 |
 | [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | A simple task management system for managing AI dev agents |  | 1298 | 2025-09-30 | 1 | 1 |
 | [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | A fast, clean, responsive Hugo theme. | HTML | 3230 | 2025-09-30 | 1 | 1 |
-| [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) | Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables. | Python | 792 | 2025-09-30 | 1 | 1 |
+| [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) | Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables. | Python | 792 | 2025-09-30 | 1 | 1 |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | TypeScript | 665 | 2025-10-01 | 7 | 2 |
 | [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | Asynchronous image downloader with cache support as a UIImageView category | Objective-C | 6001 | 2025-10-01 | 4 | 1 |
 | [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) |  | Python | 253 | 2025-10-01 | 3 | 1 |
@@ -1244,7 +1244,7 @@
 | [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | Desktop App for downloading Videos and Audios from hundreds of sites | JavaScript | 489 | 2025-10-06 | 5 | 2 |
 | [audacity/audacity](https://github.com/audacity/audacity) | Audio Editor | C++ | 2422 | 2025-10-06 | 3 | 1 |
 | [expressjs/express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | JavaScript | 21864 | 2025-10-06 | 2 | 2 |
-| [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository various collection of powerful language models o4, o3 and deepseek r1, gpt-4.1, gemini 2.5 | Python | 13696 | 2025-10-06 | 1 | 1 |
+| [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository   various collection of powerful language models   o4, o3 and deepseek r1, gpt-4.1, gemini 2.5 | Python | 13696 | 2025-10-06 | 1 | 1 |
 | [evcc-io/evcc](https://github.com/evcc-io/evcc) | solar charging ☀️🚘 | Go | 1046 | 2025-10-06 | 1 | 1 |
 | [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. | Python | 707 | 2025-10-07 | 3 | 1 |
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 2547 | 2025-10-07 | 3 | 1 |
@@ -1261,7 +1261,7 @@
 | [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 🛍️ Typescript E-commerce Platform | TypeScript | 1873 | 2025-10-11 | 3 | 1 |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. | TypeScript | 1232 | 2025-10-11 | 2 | 1 |
 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. | TypeScript | 2454 | 2025-10-11 | 2 | 1 |
-| [xyflow/xyflow](https://github.com/xyflow/xyflow) | React Flow Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. | TypeScript | 2132 | 2025-10-11 | 1 | 1 |
+| [xyflow/xyflow](https://github.com/xyflow/xyflow) | React Flow   Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. | TypeScript | 2132 | 2025-10-11 | 1 | 1 |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | CLI tool for configuring and monitoring Claude Code | Python | 1186 | 2025-10-12 | 6 | 3 |
 | [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. | Jupyter Notebook | 1143 | 2025-10-12 | 2 | 1 |
 | [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Zig | 3739 | 2025-10-13 | 5 | 2 |
@@ -1447,7 +1447,7 @@
 | [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. | TypeScript | 1293 | 2025-12-24 | 3 | 1 |
 | [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. | Python | 419 | 2025-12-24 | 3 | 1 |
 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 216 | 2025-12-24 | 3 | 1 |
-| [safety-research/bloom](https://github.com/safety-research/bloom) | bloom - evaluate any behavior immediately 🌸🌱 | Python | 98 | 2025-12-24 | 2 | 1 |
+| [safety-research/bloom](https://github.com/safety-research/bloom) | bloom - evaluate any behavior immediately  🌸🌱 | Python | 98 | 2025-12-24 | 2 | 1 |
 | [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | Make beautiful isometric infrastructure diagrams | TypeScript | 972 | 2025-12-24 | 2 | 1 |
 | [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | AI-Powered Dark Web OSINT Tool | Python | 601 | 2025-12-25 | 2 | 1 |
 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical data of a distributed system | Go | 10256 | 2025-12-25 | 1 | 1 |
