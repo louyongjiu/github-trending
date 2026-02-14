@@ -3,9 +3,9 @@ export interface Repo {
   name: string;
   url: string;
   author: string;
-  description: string;
+  description?: string;
   language?: string;
-  languageColor: string;
+  languageColor?: string;
   stars: number;
   forks: number;
   builtBy?: { username: string; href: string }[];

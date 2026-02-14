@@ -1,40 +1,45 @@
 import fs from "fs";
 import path from "path";
+import {
+  DAILY_TABLE_COLUMN_COUNT,
+  SUMMARY_TABLE_HEADER,
+  SUMMARY_TABLE_SEPARATOR,
+} from "./constants";
 import type { RepoData } from "./types";
+import { sanitizeTableCellDescription } from "./utils";
 
-// 数据清洗函数：处理描述字段中的管道符
+// 数据清洗函数：处理描述字段中的管道符与空白，防止破坏 Markdown 表格
 function cleanTableRow(row: string): string {
-  const columns = row.split('|');
+  const columns = row.split("|");
   if (columns.length < 3) return row;
-  
-  // 只清洗描述字段（通常是第3列，index=2），替换为短横线而非空格
-  if (columns.length > 2) {
-    columns[2] = columns[2].replace(/\|/g, '-');
+  const descColIndex = 2;
+  if (columns[descColIndex] != null) {
+    columns[descColIndex] = sanitizeTableCellDescription(columns[descColIndex]);
   }
-  
-  return columns.join('|');
+  return columns.join("|");
 }
-
-// 汇总表格表头与分隔符，供 buildSummaryTable 与文档生成复用
-const SUMMARY_TABLE_HEADER =
-  "| Repository | Description | Language | Stars | Forks | Built By | Current Period Stars | First Appearance Month | Days Active | Months Covered |\n";
-const SUMMARY_TABLE_SEPARATOR =
-  "|------------|-------------|----------|-------|-------|----------|---------------------|----------------------|-------------|----------------|\n";
 
 function buildSummaryTable(sortedRepos: Array<[string, RepoData]>): string {
   const rows: string[] = [];
   for (const [, repoData] of sortedRepos) {
-    const { line: repoLine, firstAppearanceMonth, totalDays, months } = repoData;
+    const { line: repoLine, firstAppearanceDate, totalDays, months } = repoData;
     const columns = repoLine
       .split("|")
       .slice(1, -1)
       .map((col) => col.trim());
-    if (columns.length < 5) continue;
-    const processedColumns = [...columns];
-    while (processedColumns.length < 7) {
-      processedColumns.splice(4, 0, "");
-    }
-    rows.push(`| ${processedColumns.join(" | ")} | ${firstAppearanceMonth} | ${totalDays} | ${months.size} |\n`);
+    if (columns.length < DAILY_TABLE_COLUMN_COUNT) continue;
+    // 日表 7 列：Repository, Description, Language, Stars, Forks, Built By, Current Period Stars；汇总只取前 4 列 + 聚合字段
+    const [repo, desc, lang, stars] = columns;
+    const summaryColumns = [
+      repo,
+      desc,
+      lang,
+      stars,
+      firstAppearanceDate,
+      String(totalDays),
+      String(months.size),
+    ];
+    rows.push(`| ${summaryColumns.join(" | ")} |\n`);
   }
   return SUMMARY_TABLE_HEADER + SUMMARY_TABLE_SEPARATOR + rows.join("");
 }
@@ -66,10 +71,6 @@ function summary(year?: string) {
     // 日数据文件名为 YYYY-MM-DD.md
     const fileDateStr = file.split(".")[0]; // 提取 "YYYY-MM-DD"
     const fileYearMonth = fileDateStr.slice(0, 7); // 提取 "YYYY-MM"
-    const fileYear = fileDateStr.slice(0, 4); // 提取 "YYYY"
-
-    // 只处理当前年份的文件
-    if (fileYear !== currentYear) continue;
 
     const filePath = path.join(inputDirectory, file);
     const content = fs.readFileSync(filePath, "utf-8");
@@ -149,12 +150,17 @@ function summary(year?: string) {
     return b[1].totalDays - a[1].totalDays;
   });
 
-  // 月度分布统计（年度汇总用）
+  // 按月份分组并同时统计每月首次出现数量（单遍遍历）
+  const reposByMonth = new Map<string, Array<[string, RepoData]>>();
   const monthlyStats: { [month: string]: number } = {};
-  Object.values(uniqueRepos).forEach((repo) => {
-    const month = repo.firstAppearanceMonth;
-    monthlyStats[month] = (monthlyStats[month] || 0) + 1;
-  });
+  for (const entry of sortedRepos) {
+    const monthKey = entry[1].firstAppearanceMonth;
+    monthlyStats[monthKey] = (monthlyStats[monthKey] ?? 0) + 1;
+    if (!reposByMonth.has(monthKey)) {
+      reposByMonth.set(monthKey, []);
+    }
+    reposByMonth.get(monthKey)!.push(entry);
+  }
   const monthlyTableRows = Object.keys(monthlyStats)
     .sort()
     .map((month) => `| ${month} | ${monthlyStats[month]} |`);
@@ -176,16 +182,7 @@ function summary(year?: string) {
   fs.writeFileSync(annualFilePath, markdownContent);
   console.log(`年度汇总文件 ${annualFilePath} 创建成功！`);
 
-  // 按 firstAppearanceMonth 分组，生成月度汇总文件
-  const reposByMonth = new Map<string, Array<[string, RepoData]>>();
-  for (const entry of sortedRepos) {
-    const monthKey = entry[1].firstAppearanceMonth;
-    if (!reposByMonth.has(monthKey)) {
-      reposByMonth.set(monthKey, []);
-    }
-    reposByMonth.get(monthKey)!.push(entry);
-  }
-
+  // 生成月度汇总文件（reposByMonth 已在上面单遍循环中构建）
   for (const [yearMonth, monthRepos] of reposByMonth) {
     const [, month] = yearMonth.split("-");
     const monthFilePath = path.join(outputDirectory, `${currentYear}-${month}.md`);
