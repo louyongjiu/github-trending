@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 2/15/2026
+> Summary Date: 2/16/2026
 
 ## Statistics Overview
 
-- Total Repositories: 227
+- Total Repositories: 230
 - Summary Year: 2026
 
 ## Repository List
@@ -56,7 +56,7 @@
 | [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | Kiro is an agentic IDE that works alongside you from prototype to production. |  | 121 | 2026-01-07 | 1 | 1 |
 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. | Python | 1531 | 2026-01-07 | 1 | 1 |
 | [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | Free Introduction to Bash Scripting eBook | HTML | 574 | 2026-01-07 | 1 | 1 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 25147 | 2026-01-08 | 8 | 2 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 25490 | 2026-01-08 | 9 | 2 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. | TypeScript | 1575 | 2026-01-08 | 7 | 2 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 10663 | 2026-01-08 | 4 | 1 |
 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. | Python | 269 | 2026-01-08 | 4 | 1 |
@@ -118,8 +118,8 @@
 | [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | My personal configuration for LazyVim ! | Shell | 183 | 2026-01-17 | 1 | 1 |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | TypeScript | 783 | 2026-01-17 | 1 | 1 |
 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents | TypeScript | 1069 | 2026-01-17 | 1 | 1 |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 19405 | 2026-01-19 | 3 | 2 |
 | [tobi/try](https://github.com/tobi/try) | fresh directories for every vibe | Shell | 117 | 2026-01-19 | 3 | 1 |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 2127 | 2026-01-19 | 2 | 1 |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python | 586 | 2026-01-19 | 2 | 1 |
 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  | Batchfile | 1831 | 2026-01-19 | 2 | 2 |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | Python | 11519 | 2026-01-19 | 1 | 1 |
@@ -168,7 +168,7 @@
 | [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | C++ | 29 | 2026-01-29 | 1 | 1 |
 | [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab and other 3D printers | C++ | 587 | 2026-01-29 | 1 | 1 |
 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. | Python | 373 | 2026-01-29 | 1 | 1 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 21656 | 2026-01-30 | 4 | 2 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 198146 | 2026-01-30 | 5 | 2 |
 | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | 4829 | 2026-01-30 | 3 | 2 |
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
@@ -216,28 +216,31 @@
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 3077 | 2026-02-08 | 1 | 1 |
 | [pydantic/monty](https://github.com/pydantic/monty) | A minimal, secure Python interpreter written in Rust for use by AI | Rust | 165 | 2026-02-09 | 3 | 1 |
 | [home-assistant/addons](https://github.com/home-assistant/addons) | ➕ Docker add-ons for Home Assistant | Shell | 1761 | 2026-02-09 | 1 | 1 |
-| [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 2098 | 2026-02-10 | 4 | 1 |
+| [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 2763 | 2026-02-10 | 5 | 1 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 3626 | 2026-02-10 | 2 | 1 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 42493 | 2026-02-10 | 1 | 1 |
 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 10729 | 2026-02-11 | 3 | 1 |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
 | [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | Interactive course teaching Product Managers how to use Claude Code effectively | MDX | 153 | 2026-02-11 | 1 | 1 |
 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. | JavaScript | 2843 | 2026-02-11 | 1 | 1 |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 6913 | 2026-02-13 | 3 | 1 |
 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | Agentic AI Infrastructure for magnifying HUMAN capabilities. | TypeScript | 8142 | 2026-02-13 | 2 | 1 |
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 6220 | 2026-02-13 | 2 | 1 |
 | [cinnyapp/cinny](https://github.com/cinnyapp/cinny) | Yet another matrix client | TypeScript | 3060 | 2026-02-13 | 2 | 1 |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. | Python | 52146 | 2026-02-13 | 1 | 1 |
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 635 | 2026-02-14 | 2 | 1 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 825 | 2026-02-14 | 3 | 1 |
 | [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) |  | C | 5905 | 2026-02-14 | 1 | 1 |
 | [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) |  | TeX | 407 | 2026-02-14 | 1 | 1 |
 | [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM post-training framework for RL Scaling. | Python | 4107 | 2026-02-14 | 1 | 1 |
 | [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | A toolkit to make debugging iOS applications easier 🚀 | Swift | 1477 | 2026-02-14 | 1 | 1 |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 2495 | 2026-02-15 | 2 | 1 |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers | Python | 6553 | 2026-02-15 | 2 | 1 |
 | [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 60289 | 2026-02-15 | 1 | 1 |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 1399 | 2026-02-15 | 1 | 1 |
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers | Python | 6225 | 2026-02-15 | 1 | 1 |
 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | Python | 6348 | 2026-02-15 | 1 | 1 |
 | [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | The memory-first coding agent | TypeScript | 1260 | 2026-02-15 | 1 | 1 |
 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | Ruby | 23384 | 2026-02-15 | 1 | 1 |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3094 | 2026-02-16 | 1 | 1 |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | Fast and accurate automatic speech recognition (ASR) for edge devices | C | 3903 | 2026-02-16 | 1 | 1 |
+| [brave/brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. |  | 21587 | 2026-02-16 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -245,4 +248,4 @@
 | Month | First Appearance Count |
 |-------|------------------------|
 | 2026-01 | 162 |
-| 2026-02 | 65 |
+| 2026-02 | 68 |
