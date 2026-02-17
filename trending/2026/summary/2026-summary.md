@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 2/16/2026
+> Summary Date: 2/17/2026
 
 ## Statistics Overview
 
-- Total Repositories: 230
+- Total Repositories: 232
 - Summary Year: 2026
 
 ## Repository List
@@ -118,7 +118,7 @@
 | [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | My personal configuration for LazyVim ! | Shell | 183 | 2026-01-17 | 1 | 1 |
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | TypeScript | 783 | 2026-01-17 | 1 | 1 |
 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents | TypeScript | 1069 | 2026-01-17 | 1 | 1 |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 19405 | 2026-01-19 | 3 | 2 |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 19837 | 2026-01-19 | 4 | 2 |
 | [tobi/try](https://github.com/tobi/try) | fresh directories for every vibe | Shell | 117 | 2026-01-19 | 3 | 1 |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python | 586 | 2026-01-19 | 2 | 1 |
 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  | Batchfile | 1831 | 2026-01-19 | 2 | 2 |
@@ -168,7 +168,7 @@
 | [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | C++ | 29 | 2026-01-29 | 1 | 1 |
 | [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab and other 3D printers | C++ | 587 | 2026-01-29 | 1 | 1 |
 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. | Python | 373 | 2026-01-29 | 1 | 1 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 198146 | 2026-01-30 | 5 | 2 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 202304 | 2026-01-30 | 6 | 2 |
 | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | 4829 | 2026-01-30 | 3 | 2 |
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
@@ -223,24 +223,26 @@
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
 | [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | Interactive course teaching Product Managers how to use Claude Code effectively | MDX | 153 | 2026-02-11 | 1 | 1 |
 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. | JavaScript | 2843 | 2026-02-11 | 1 | 1 |
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 6913 | 2026-02-13 | 3 | 1 |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 7392 | 2026-02-13 | 4 | 1 |
 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | Agentic AI Infrastructure for magnifying HUMAN capabilities. | TypeScript | 8142 | 2026-02-13 | 2 | 1 |
 | [cinnyapp/cinny](https://github.com/cinnyapp/cinny) | Yet another matrix client | TypeScript | 3060 | 2026-02-13 | 2 | 1 |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. | Python | 52146 | 2026-02-13 | 1 | 1 |
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 825 | 2026-02-14 | 3 | 1 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 1019 | 2026-02-14 | 4 | 1 |
 | [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) |  | C | 5905 | 2026-02-14 | 1 | 1 |
 | [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) |  | TeX | 407 | 2026-02-14 | 1 | 1 |
 | [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM post-training framework for RL Scaling. | Python | 4107 | 2026-02-14 | 1 | 1 |
 | [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | A toolkit to make debugging iOS applications easier 🚀 | Swift | 1477 | 2026-02-14 | 1 | 1 |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 2495 | 2026-02-15 | 2 | 1 |
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers | Python | 6553 | 2026-02-15 | 2 | 1 |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 3818 | 2026-02-15 | 3 | 1 |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers | Python | 6855 | 2026-02-15 | 3 | 1 |
+| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | The memory-first coding agent | TypeScript | 1496 | 2026-02-15 | 2 | 1 |
 | [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 60289 | 2026-02-15 | 1 | 1 |
 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | Python | 6348 | 2026-02-15 | 1 | 1 |
-| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | The memory-first coding agent | TypeScript | 1260 | 2026-02-15 | 1 | 1 |
 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | Ruby | 23384 | 2026-02-15 | 1 | 1 |
-| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3094 | 2026-02-16 | 1 | 1 |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3585 | 2026-02-16 | 2 | 1 |
 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | Fast and accurate automatic speech recognition (ASR) for edge devices | C | 3903 | 2026-02-16 | 1 | 1 |
 | [brave/brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. |  | 21587 | 2026-02-16 | 1 | 1 |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | TypeScript | 9119 | 2026-02-17 | 1 | 1 |
+| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | Python | 16643 | 2026-02-17 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -248,4 +250,4 @@
 | Month | First Appearance Count |
 |-------|------------------------|
 | 2026-01 | 162 |
-| 2026-02 | 68 |
+| 2026-02 | 70 |
