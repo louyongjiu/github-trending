@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 2/17/2026
+> Summary Date: 2/18/2026
 
 ## Statistics Overview
 
-- Total Repositories: 232
+- Total Repositories: 236
 - Summary Year: 2026
 
 ## Repository List
@@ -72,7 +72,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 16461 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 3642 | 2026-01-10 | 13 | 2 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 53738 | 2026-01-10 | 14 | 2 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -84,8 +84,8 @@
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. | JavaScript | 1960 | 2026-01-11 | 1 | 1 |
 | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 📘 Home Assistant User documentation | HTML | 8118 | 2026-01-12 | 3 | 1 |
 | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | Autonomous AI development loop for Claude Code with intelligent exit detection | Shell | 155 | 2026-01-12 | 2 | 1 |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | CLI tool for configuring and monitoring Claude Code | Python | 20771 | 2026-01-12 | 2 | 2 |
 | [simstudioai/sim](https://github.com/simstudioai/sim) | Open-source platform to build and deploy AI agent workflows. | TypeScript | 3264 | 2026-01-12 | 2 | 1 |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | CLI tool for configuring and monitoring Claude Code | Python | 1353 | 2026-01-12 | 1 | 1 |
 | [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | TypeScript | 3278 | 2026-01-12 | 1 | 1 |
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 1905 | 2026-01-12 | 1 | 1 |
 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) |  | Python | 656 | 2026-01-12 | 1 | 1 |
@@ -168,7 +168,7 @@
 | [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | C++ | 29 | 2026-01-29 | 1 | 1 |
 | [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab and other 3D printers | C++ | 587 | 2026-01-29 | 1 | 1 |
 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. | Python | 373 | 2026-01-29 | 1 | 1 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 202304 | 2026-01-30 | 6 | 2 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 206028 | 2026-01-30 | 7 | 2 |
 | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | 4829 | 2026-01-30 | 3 | 2 |
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
@@ -210,8 +210,8 @@
 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. | TypeScript | 2037 | 2026-02-08 | 4 | 1 |
 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | Rust | 822 | 2026-02-08 | 4 | 1 |
 | [microsoft/litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution | Rust | 74 | 2026-02-08 | 3 | 1 |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 7374 | 2026-02-08 | 2 | 1 |
 | [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone | Python | 1793 | 2026-02-08 | 2 | 1 |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 459 | 2026-02-08 | 1 | 1 |
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. | JavaScript | 571 | 2026-02-08 | 1 | 1 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 3077 | 2026-02-08 | 1 | 1 |
 | [pydantic/monty](https://github.com/pydantic/monty) | A minimal, secure Python interpreter written in Rust for use by AI | Rust | 165 | 2026-02-09 | 3 | 1 |
@@ -227,22 +227,26 @@
 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | Agentic AI Infrastructure for magnifying HUMAN capabilities. | TypeScript | 8142 | 2026-02-13 | 2 | 1 |
 | [cinnyapp/cinny](https://github.com/cinnyapp/cinny) | Yet another matrix client | TypeScript | 3060 | 2026-02-13 | 2 | 1 |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. | Python | 52146 | 2026-02-13 | 1 | 1 |
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 1019 | 2026-02-14 | 4 | 1 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 | JavaScript | 1238 | 2026-02-14 | 5 | 1 |
 | [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) |  | C | 5905 | 2026-02-14 | 1 | 1 |
 | [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) |  | TeX | 407 | 2026-02-14 | 1 | 1 |
 | [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM post-training framework for RL Scaling. | Python | 4107 | 2026-02-14 | 1 | 1 |
 | [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | A toolkit to make debugging iOS applications easier 🚀 | Swift | 1477 | 2026-02-14 | 1 | 1 |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 3818 | 2026-02-15 | 3 | 1 |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | C++ | 4560 | 2026-02-15 | 4 | 1 |
 | [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers | Python | 6855 | 2026-02-15 | 3 | 1 |
 | [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | The memory-first coding agent | TypeScript | 1496 | 2026-02-15 | 2 | 1 |
 | [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. | Go | 60289 | 2026-02-15 | 1 | 1 |
 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | Python | 6348 | 2026-02-15 | 1 | 1 |
 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | Ruby | 23384 | 2026-02-15 | 1 | 1 |
-| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3585 | 2026-02-16 | 2 | 1 |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3935 | 2026-02-16 | 3 | 1 |
 | [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | Fast and accurate automatic speech recognition (ASR) for edge devices | C | 3903 | 2026-02-16 | 1 | 1 |
 | [brave/brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. |  | 21587 | 2026-02-16 | 1 | 1 |
-| [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | TypeScript | 9119 | 2026-02-17 | 1 | 1 |
-| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | Python | 16643 | 2026-02-17 | 1 | 1 |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | TypeScript | 9368 | 2026-02-17 | 2 | 1 |
+| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | Python | 17120 | 2026-02-17 | 2 | 1 |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | Learn System Design concepts and prepare for interviews using free resources. | Java | 32887 | 2026-02-18 | 1 | 1 |
+| [steipete/summarize](https://github.com/steipete/summarize) | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. | TypeScript | 3508 | 2026-02-18 | 1 | 1 |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API | Python | 14543 | 2026-02-18 | 1 | 1 |
+| [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform | TypeScript | 8451 | 2026-02-18 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -250,4 +254,4 @@
 | Month | First Appearance Count |
 |-------|------------------------|
 | 2026-01 | 162 |
-| 2026-02 | 70 |
+| 2026-02 | 74 |
