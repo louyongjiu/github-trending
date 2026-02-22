@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 2/21/2026
+> Summary Date: 2/22/2026
 
 ## Statistics Overview
 
-- Total Repositories: 253
+- Total Repositories: 260
 - Summary Year: 2026
 
 ## Repository List
@@ -23,7 +23,7 @@
 | [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | SoTA open-source TTS | Python | 2610 | 2026-01-01 | 1 | 1 |
 | [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. | Go | 3740 | 2026-01-02 | 5 | 1 |
 | [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 🤖 A minimal and customizable Docker image running the Android emulator as a service. | Shell | 152 | 2026-01-02 | 4 | 1 |
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | Jupyter Notebook | 21187 | 2026-01-02 | 3 | 2 |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | Jupyter Notebook | 22632 | 2026-01-02 | 4 | 2 |
 | [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. | Python | 810 | 2026-01-02 | 3 | 1 |
 | [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. | Jupyter Notebook | 723 | 2026-01-02 | 1 | 1 |
 | [Polymarket/agents](https://github.com/Polymarket/agents) | Trade autonomously on Polymarket using AI Agents | Python | 366 | 2026-01-02 | 1 | 1 |
@@ -43,7 +43,7 @@
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 7878 | 2026-01-05 | 2 | 1 |
 | [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 33834 | 2026-01-05 | 2 | 1 |
 | [5rahim/seanime](https://github.com/5rahim/seanime) | Open-source media server with a web interface and desktop app for anime and manga. | Go | 137 | 2026-01-05 | 1 | 1 |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Shell | 4466 | 2026-01-06 | 6 | 1 |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Shell | 68505 | 2026-01-06 | 7 | 2 |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 2399 | 2026-01-06 | 4 | 1 |
 | [3b1b/manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | Python | 7041 | 2026-01-06 | 1 | 1 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | C++ | 16026 | 2026-01-07 | 6 | 1 |
@@ -72,7 +72,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 16461 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 56346 | 2026-01-10 | 17 | 2 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 57152 | 2026-01-10 | 18 | 2 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -252,18 +252,25 @@
 | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI agent that lives in your terminal. | TypeScript | 18914 | 2026-02-19 | 1 | 1 |
 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. | Jupyter Notebook | 25324 | 2026-02-19 | 1 | 1 |
 | [p2r3/convert](https://github.com/p2r3/convert) | Truly universal online file converter | TypeScript | 1533 | 2026-02-19 | 1 | 1 |
+| [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. | Python | 1435 | 2026-02-20 | 2 | 1 |
 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | Free Motion Capture for Everyone 💀✨ | Python | 5597 | 2026-02-20 | 2 | 1 |
-| [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. | Python | 1042 | 2026-02-20 | 1 | 1 |
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! | TypeScript | 783 | 2026-02-20 | 1 | 1 |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 4177 | 2026-02-21 | 1 | 1 |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 5825 | 2026-02-21 | 2 | 1 |
+| [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 1742 | 2026-02-21 | 2 | 1 |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | C++ | 6120 | 2026-02-21 | 1 | 1 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 31600 | 2026-02-21 | 1 | 1 |
 | [eslint/eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | JavaScript | 27069 | 2026-02-21 | 1 | 1 |
 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | Core libraries and experimental work for Effect v4 | TypeScript | 380 | 2026-02-21 | 1 | 1 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 8888 | 2026-02-21 | 1 | 1 |
 | [roboflow/trackers](https://github.com/roboflow/trackers) | Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use. | Python | 2748 | 2026-02-21 | 1 | 1 |
-| [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 1469 | 2026-02-21 | 1 | 1 |
 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Databricks Toolkit for Coding Agents provided by Field Engineering | Python | 564 | 2026-02-21 | 1 | 1 |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration | TypeScript | 1108 | 2026-02-22 | 1 | 1 |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | C# | 51582 | 2026-02-22 | 1 | 1 |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | Make beautiful isometric infrastructure diagrams | TypeScript | 17842 | 2026-02-22 | 1 | 1 |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning | C++ | 14084 | 2026-02-22 | 1 | 1 |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | Stremio - Freedom to Stream | JavaScript | 9496 | 2026-02-22 | 1 | 1 |
+| [cloudflare/agents](https://github.com/cloudflare/agents) | Build and deploy AI Agents on Cloudflare | TypeScript | 3486 | 2026-02-22 | 1 | 1 |
+| [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | Dart | 26458 | 2026-02-22 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -271,4 +278,4 @@
 | Month | First Appearance Count |
 |-------|------------------------|
 | 2026-01 | 162 |
-| 2026-02 | 91 |
+| 2026-02 | 98 |
