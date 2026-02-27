@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 2/26/2026
+> Summary Date: 2/27/2026
 
 ## Statistics Overview
 
-- Total Repositories: 277
+- Total Repositories: 279
 - Summary Year: 2026
 
 ## Repository List
@@ -72,7 +72,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 16461 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 20 | 2 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 21 | 2 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -90,10 +90,10 @@
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 1905 | 2026-01-12 | 1 | 1 |
 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) |  | Python | 656 | 2026-01-12 | 1 | 1 |
 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | Python | 3711 | 2026-01-13 | 4 | 2 |
+| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-01-13 | 2 | 2 |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 1483 | 2026-01-13 | 1 | 1 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫   知乎问答文章｜评论爬虫 | Python | 9373 | 2026-01-13 | 1 | 1 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | TypeScript | 5335 | 2026-01-13 | 1 | 1 |
-| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. | JavaScript | 1488 | 2026-01-13 | 1 | 1 |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | 3192 | 2026-01-13 | 1 | 1 |
 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 13144 | 2026-01-14 | 5 | 1 |
 | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | TypeScript | 2743 | 2026-01-14 | 2 | 1 |
@@ -239,7 +239,7 @@
 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents | Python | 6348 | 2026-02-15 | 1 | 1 |
 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | Ruby | 23384 | 2026-02-15 | 1 | 1 |
 | [steipete/gogcli](https://github.com/steipete/gogcli) | Google Suite CLI: Gmail, GCal, GDrive, GContacts. | Go | 3935 | 2026-02-16 | 3 | 1 |
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | Fast and accurate automatic speech recognition (ASR) for edge devices | C | 3903 | 2026-02-16 | 1 | 1 |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | Fast and accurate automatic speech recognition (ASR) for edge devices | C | 0 | 2026-02-16 | 2 | 1 |
 | [brave/brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. |  | 21587 | 2026-02-16 | 1 | 1 |
 | [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. | TypeScript | 9368 | 2026-02-17 | 2 | 1 |
 | [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | Open source software that helps you create and deploy high-frequency crypto trading bots | Python | 17120 | 2026-02-17 | 2 | 1 |
@@ -255,7 +255,7 @@
 | [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. | Python | 1435 | 2026-02-20 | 2 | 1 |
 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | Free Motion Capture for Everyone 💀✨ | Python | 5597 | 2026-02-20 | 2 | 1 |
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! | TypeScript | 783 | 2026-02-20 | 1 | 1 |
-| [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 0 | 2026-02-21 | 6 | 1 |
+| [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 0 | 2026-02-21 | 7 | 1 |
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 7264 | 2026-02-21 | 3 | 1 |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | C++ | 6120 | 2026-02-21 | 1 | 1 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 31600 | 2026-02-21 | 1 | 1 |
@@ -272,22 +272,24 @@
 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning | C++ | 14084 | 2026-02-22 | 1 | 1 |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | Dart | 26458 | 2026-02-22 | 1 | 1 |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |  | 0 | 2026-02-23 | 4 | 1 |
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | Python | 0 | 2026-02-24 | 3 | 1 |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | Python | 0 | 2026-02-24 | 4 | 1 |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely | TypeScript | 0 | 2026-02-24 | 2 | 1 |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | HTML | 147188 | 2026-02-24 | 1 | 1 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model | Jupyter Notebook | 72523 | 2026-02-24 | 1 | 1 |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 98352 | 2026-02-24 | 1 | 1 |
-| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. | Rust | 0 | 2026-02-25 | 2 | 1 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! | Python | 0 | 2026-02-25 | 2 | 1 |
+| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. | Rust | 0 | 2026-02-25 | 3 | 1 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! | Python | 0 | 2026-02-25 | 3 | 1 |
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 0 | 2026-02-25 | 1 | 1 |
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 0 | 2026-02-25 | 1 | 1 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | TypeScript | 0 | 2026-02-26 | 2 | 1 |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 1 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | TypeScript | 0 | 2026-02-26 | 1 | 1 |
 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 2026-02-26 | 1 | 1 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 | TypeScript | 0 | 2026-02-26 | 1 | 1 |
 | [katanemo/plano](https://github.com/katanemo/plano) | Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework). | Rust | 0 | 2026-02-26 | 1 | 1 |
 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 | JavaScript | 0 | 2026-02-26 | 1 | 1 |
+| [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Development at the speed of light | Rust | 0 | 2026-02-27 | 1 | 1 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. | Rust | 0 | 2026-02-27 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -295,4 +297,4 @@
 | Month | First Appearance Count |
 |-------|------------------------|
 | 2026-01 | 162 |
-| 2026-02 | 115 |
+| 2026-02 | 117 |
