@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/2/2026
+> Summary Date: 3/3/2026
 
 ## Statistics Overview
 
-- Total Repositories: 293
+- Total Repositories: 295
 - Summary Year: 2026
 
 ## Repository List
@@ -63,8 +63,8 @@
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | Jupyter Notebook | 29380 | 2026-01-08 | 3 | 2 |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | Rust | 978 | 2026-01-08 | 2 | 1 |
 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1158+ languages! | Python | 1447 | 2026-01-08 | 2 | 2 |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Anthropic's Interactive Prompt Engineering Tutorial | Jupyter Notebook | 0 | 2026-01-08 | 2 | 2 |
 | [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) | Youtube client with older Android version support, background player, Google Gemini ✨ and many more features. | JavaScript | 121 | 2026-01-08 | 1 | 1 |
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Anthropic's Interactive Prompt Engineering Tutorial | Jupyter Notebook | 2734 | 2026-01-08 | 1 | 1 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). | Python | 0 | 2026-01-09 | 8 | 3 |
 | [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | Java | 513 | 2026-01-09 | 2 | 1 |
 | [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | LTX-Video Support for ComfyUI | Python | 272 | 2026-01-09 | 2 | 1 |
@@ -290,20 +290,22 @@
 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 | JavaScript | 0 | 2026-02-26 | 1 | 1 |
 | [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Development at the speed of light | Rust | 0 | 2026-02-27 | 1 | 1 |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. | Rust | 0 | 2026-02-27 | 1 | 1 |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-02-28 | 3 | 2 |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | TypeScript | 0 | 2026-02-28 | 3 | 2 |
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 3 | 2 |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-02-28 | 4 | 2 |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | TypeScript | 0 | 2026-02-28 | 4 | 2 |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 4 | 2 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 2 | 1 |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 3 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |  | Python | 0 | 2026-03-01 | 1 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. | Python | 0 | 2026-03-01 | 1 | 1 |
 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | Go | 0 | 2026-03-01 | 1 | 1 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 1 | 1 |
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 1 | 1 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 2 | 1 |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 2 | 1 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 1 | 1 |
+| [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -312,4 +314,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 9 |
+| 2026-03 | 11 |
