@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/7/2026
+> Summary Date: 3/8/2026
 
 ## Statistics Overview
 
-- Total Repositories: 311
+- Total Repositories: 317
 - Summary Year: 2026
 
 ## Repository List
@@ -39,8 +39,8 @@
 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. | Python | 1530 | 2026-01-04 | 1 | 1 |
 | [beancount/beancount](https://github.com/beancount/beancount) | Beancount: Double-Entry Accounting from Text Files. | Python | 386 | 2026-01-04 | 1 | 1 |
 | [nukeop/nuclear](https://github.com/nukeop/nuclear) | Streaming music player that finds free music for you | TypeScript | 1254 | 2026-01-04 | 1 | 1 |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 0 | 2026-01-05 | 4 | 2 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 5392 | 2026-01-05 | 4 | 1 |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 0 | 2026-01-05 | 3 | 2 |
 | [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 33834 | 2026-01-05 | 2 | 1 |
 | [5rahim/seanime](https://github.com/5rahim/seanime) | Open-source media server with a web interface and desktop app for anime and manga. | Go | 137 | 2026-01-05 | 1 | 1 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Shell | 0 | 2026-01-06 | 10 | 3 |
@@ -189,7 +189,7 @@
 | [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | Python | 5434 | 2026-02-03 | 2 | 1 |
 | [autobrr/qui](https://github.com/autobrr/qui) | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. | Go | 77 | 2026-02-03 | 1 | 1 |
 | [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) |  | Jupyter Notebook | 1791 | 2026-02-03 | 1 | 1 |
-| [openai/skills](https://github.com/openai/skills) | Skills Catalog for Codex | Python | 0 | 2026-02-04 | 8 | 2 |
+| [openai/skills](https://github.com/openai/skills) | Skills Catalog for Codex | Python | 0 | 2026-02-04 | 9 | 2 |
 | [masoncl/review-prompts](https://github.com/masoncl/review-prompts) | AI review prompts | Python | 34 | 2026-02-04 | 1 | 1 |
 | [automazeio/ccpm](https://github.com/automazeio/ccpm) | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. | Shell | 701 | 2026-02-04 | 1 | 1 |
 | [vm0-ai/vm0](https://github.com/vm0-ai/vm0) | the easiest way to run natural language-described workflows automatically | TypeScript | 27 | 2026-02-04 | 1 | 1 |
@@ -306,7 +306,7 @@
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 2 | 1 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |  | 0 | 2026-03-04 | 4 | 1 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 5 | 1 |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | TypeScript | 0 | 2026-03-04 | 3 | 1 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
@@ -314,14 +314,20 @@
 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 2 | 1 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Build AI Agents, Visually | TypeScript | 0 | 2026-03-05 | 1 | 1 |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots | PowerShell | 0 | 2026-03-06 | 3 | 1 |
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. | Python | 0 | 2026-03-06 | 2 | 1 |
 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. | Python | 0 | 2026-03-06 | 2 | 1 |
-| [microsoft/hve-core](https://github.com/microsoft/hve-core) | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots | PowerShell | 0 | 2026-03-06 | 2 | 1 |
 | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. | Jupyter Notebook | 0 | 2026-03-06 | 1 | 1 |
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | Python | 0 | 2026-03-07 | 1 | 1 |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. | Python | 0 | 2026-03-07 | 2 | 1 |
 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. | Go | 0 | 2026-03-07 | 1 | 1 |
 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 | Python | 0 | 2026-03-07 | 1 | 1 |
 | [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | Select context for coding agents directly from your website | TypeScript | 0 | 2026-03-07 | 1 | 1 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | Python | 0 | 2026-03-08 | 1 | 1 |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 0 | 2026-03-08 | 1 | 1 |
+| [agentjido/jido](https://github.com/agentjido/jido) | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. | Elixir | 0 | 2026-03-08 | 1 | 1 |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | TypeScript | 0 | 2026-03-08 | 1 | 1 |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 0 | 2026-03-08 | 1 | 1 |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 0 | 2026-03-08 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -330,4 +336,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 27 |
+| 2026-03 | 33 |
