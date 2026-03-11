@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/10/2026
+> Summary Date: 3/11/2026
 
 ## Statistics Overview
 
-- Total Repositories: 323
+- Total Repositories: 325
 - Summary Year: 2026
 
 ## Repository List
@@ -39,7 +39,7 @@
 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. | Python | 1530 | 2026-01-04 | 1 | 1 |
 | [beancount/beancount](https://github.com/beancount/beancount) | Beancount: Double-Entry Accounting from Text Files. | Python | 386 | 2026-01-04 | 1 | 1 |
 | [nukeop/nuclear](https://github.com/nukeop/nuclear) | Streaming music player that finds free music for you | TypeScript | 1254 | 2026-01-04 | 1 | 1 |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 0 | 2026-01-05 | 5 | 2 |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | Python | 0 | 2026-01-05 | 6 | 2 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 5392 | 2026-01-05 | 4 | 1 |
 | [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 33834 | 2026-01-05 | 2 | 1 |
 | [5rahim/seanime](https://github.com/5rahim/seanime) | Open-source media server with a web interface and desktop app for anime and manga. | Go | 137 | 2026-01-05 | 1 | 1 |
@@ -72,7 +72,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 16461 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 23 | 3 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 24 | 3 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -168,7 +168,7 @@
 | [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | C++ | 29 | 2026-01-29 | 1 | 1 |
 | [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab and other 3D printers | C++ | 587 | 2026-01-29 | 1 | 1 |
 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. | Python | 373 | 2026-01-29 | 1 | 1 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 0 | 2026-01-30 | 11 | 3 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 0 | 2026-01-30 | 12 | 3 |
 | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | 4829 | 2026-01-30 | 3 | 2 |
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
@@ -186,7 +186,7 @@
 | [j178/prek](https://github.com/j178/prek) | ⚡ Better `pre-commit`, re-engineered in Rust | Rust | 147 | 2026-02-02 | 2 | 1 |
 | [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) | Turn any browser into your terminal & command your agents on the go. | TypeScript | 234 | 2026-02-02 | 1 | 1 |
 | [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) | [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling | Python | 136 | 2026-02-02 | 1 | 1 |
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | Python | 0 | 2026-02-03 | 3 | 2 |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | Python | 0 | 2026-02-03 | 4 | 2 |
 | [autobrr/qui](https://github.com/autobrr/qui) | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. | Go | 77 | 2026-02-03 | 1 | 1 |
 | [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) |  | Jupyter Notebook | 1791 | 2026-02-03 | 1 | 1 |
 | [openai/skills](https://github.com/openai/skills) | Skills Catalog for Codex | Python | 0 | 2026-02-04 | 10 | 2 |
@@ -282,7 +282,7 @@
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 0 | 2026-02-25 | 1 | 1 |
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 0 | 2026-02-25 | 1 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 5 | 2 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 6 | 2 |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 3 | 2 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 | TypeScript | 0 | 2026-02-26 | 2 | 2 |
 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 2026-02-26 | 1 | 1 |
@@ -296,7 +296,7 @@
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
 | [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 4 | 1 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 2 | 1 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 3 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
 | [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) | Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. | Python | 0 | 2026-03-01 | 1 | 1 |
@@ -306,7 +306,7 @@
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 2 | 1 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 6 | 1 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 7 | 1 |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | TypeScript | 0 | 2026-03-04 | 3 | 1 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
@@ -322,18 +322,20 @@
 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. | Go | 0 | 2026-03-07 | 2 | 1 |
 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 | Python | 0 | 2026-03-07 | 1 | 1 |
 | [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | Select context for coding agents directly from your website | TypeScript | 0 | 2026-03-07 | 1 | 1 |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | Python | 0 | 2026-03-08 | 3 | 1 |
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 0 | 2026-03-08 | 3 | 1 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | Python | 0 | 2026-03-08 | 4 | 1 |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 0 | 2026-03-08 | 4 | 1 |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 0 | 2026-03-08 | 3 | 1 |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
 | [agentjido/jido](https://github.com/agentjido/jido) | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. | Elixir | 0 | 2026-03-08 | 1 | 1 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | JavaScript | 0 | 2026-03-09 | 3 | 1 |
 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. | Python | 0 | 2026-03-09 | 2 | 1 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | JavaScript | 0 | 2026-03-09 | 2 | 1 |
 | [is-a-dev/register](https://github.com/is-a-dev/register) | Grab your own sweet-looking '.is-a.dev' subdomain. | JavaScript | 0 | 2026-03-09 | 1 | 1 |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 | Python | 0 | 2026-03-10 | 1 | 1 |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace. | Python | 0 | 2026-03-10 | 1 | 1 |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | PowerShell | 0 | 2026-03-10 | 1 | 1 |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | TypeScript | 0 | 2026-03-11 | 1 | 1 |
+| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | Java | 0 | 2026-03-11 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -342,4 +344,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 39 |
+| 2026-03 | 41 |
