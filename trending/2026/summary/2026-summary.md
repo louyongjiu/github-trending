@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/13/2026
+> Summary Date: 3/14/2026
 
 ## Statistics Overview
 
-- Total Repositories: 332
+- Total Repositories: 334
 - Summary Year: 2026
 
 ## Repository List
@@ -49,8 +49,8 @@
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | Python | 0 | 2026-01-07 | 9 | 2 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | C++ | 16026 | 2026-01-07 | 6 | 1 |
 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C# | 129737 | 2026-01-07 | 5 | 2 |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | Python | 0 | 2026-01-07 | 4 | 3 |
 | [Lissy93/web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website | TypeScript | 2332 | 2026-01-07 | 3 | 1 |
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Official inference framework for 1-bit LLMs | Python | 0 | 2026-01-07 | 3 | 3 |
 | [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | A collaborative list of public APIs for developers | JavaScript | 682 | 2026-01-07 | 2 | 1 |
 | [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) |  | TypeScript | 1341 | 2026-01-07 | 1 | 1 |
 | [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | Kiro is an agentic IDE that works alongside you from prototype to production. |  | 121 | 2026-01-07 | 1 | 1 |
@@ -72,7 +72,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 16461 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 26 | 3 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 27 | 3 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -173,8 +173,8 @@
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. |  | 75 | 2026-01-30 | 2 | 1 |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 0 | 2026-02-01 | 4 | 2 |
 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | Neovim AI agent done right | Lua | 131 | 2026-02-01 | 3 | 1 |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 0 | 2026-02-01 | 3 | 2 |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 5945 | 2026-02-01 | 2 | 1 |
 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | Python | 9754 | 2026-02-01 | 1 | 1 |
 | [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | Render Mermaid graphs inside your terminal | Go | 37 | 2026-02-01 | 1 | 1 |
@@ -218,7 +218,7 @@
 | [home-assistant/addons](https://github.com/home-assistant/addons) | ➕ Docker add-ons for Home Assistant | Shell | 1761 | 2026-02-09 | 1 | 1 |
 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 2763 | 2026-02-10 | 5 | 1 |
 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 3626 | 2026-02-10 | 2 | 1 |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 42493 | 2026-02-10 | 1 | 1 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 0 | 2026-02-10 | 2 | 2 |
 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 10729 | 2026-02-11 | 3 | 1 |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
 | [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | Interactive course teaching Product Managers how to use Claude Code effectively | MDX | 153 | 2026-02-11 | 1 | 1 |
@@ -306,7 +306,7 @@
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 2 | 1 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 9 | 1 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 10 | 1 |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | TypeScript | 0 | 2026-03-04 | 3 | 1 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
@@ -323,7 +323,7 @@
 | [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 | Python | 0 | 2026-03-07 | 1 | 1 |
 | [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | Select context for coding agents directly from your website | TypeScript | 0 | 2026-03-07 | 1 | 1 |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | Python | 0 | 2026-03-08 | 6 | 1 |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 0 | 2026-03-08 | 5 | 1 |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | TypeScript | 0 | 2026-03-08 | 6 | 1 |
 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI | Jupyter Notebook | 0 | 2026-03-08 | 4 | 1 |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
@@ -334,15 +334,17 @@
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 | Python | 0 | 2026-03-10 | 1 | 1 |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace. | Python | 0 | 2026-03-10 | 1 | 1 |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | PowerShell | 0 | 2026-03-10 | 1 | 1 |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | TypeScript | 0 | 2026-03-11 | 2 | 1 |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | TypeScript | 0 | 2026-03-11 | 3 | 1 |
 | [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | Java | 0 | 2026-03-11 | 1 | 1 |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | Python | 0 | 2026-03-12 | 2 | 1 |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 0 | 2026-03-12 | 1 | 1 |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. | Python | 0 | 2026-03-13 | 1 | 1 |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | Give agents everything they need to ship fullstack apps. The backend built for agentic development. | TypeScript | 0 | 2026-03-13 | 1 | 1 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 0 | 2026-03-13 | 1 | 1 |
-| [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization | C++ | 0 | 2026-03-13 | 1 | 1 |
-| [google/A2UI](https://github.com/google/A2UI) |  | TypeScript | 0 | 2026-03-13 | 1 | 1 |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | Python | 0 | 2026-03-12 | 3 | 1 |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 0 | 2026-03-12 | 2 | 1 |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. | Python | 0 | 2026-03-13 | 2 | 1 |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | Give agents everything they need to ship fullstack apps. The backend built for agentic development. | TypeScript | 0 | 2026-03-13 | 2 | 1 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 0 | 2026-03-13 | 2 | 1 |
+| [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization | C++ | 0 | 2026-03-13 | 2 | 1 |
+| [google/A2UI](https://github.com/google/A2UI) |  | TypeScript | 0 | 2026-03-13 | 2 | 1 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | Zig | 0 | 2026-03-14 | 1 | 1 |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | Go | 0 | 2026-03-14 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -351,4 +353,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 48 |
+| 2026-03 | 50 |
