@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/22/2026
+> Summary Date: 3/23/2026
 
 ## Statistics Overview
 
-- Total Repositories: 357
+- Total Repositories: 361
 - Summary Year: 2026
 
 ## Repository List
@@ -140,8 +140,8 @@
 | [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | FlashMLA: Efficient Multi-head Latent Attention Kernels | C++ | 964 | 2026-01-23 | 2 | 1 |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | TypeScript | 1450 | 2026-01-23 | 1 | 1 |
 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | Download videos from almost any website worldwide | TypeScript | 338 | 2026-01-23 | 1 | 1 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | Python | 0 | 2026-01-24 | 3 | 2 |
 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines | Python | 293 | 2026-01-24 | 3 | 1 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | Python | 9135 | 2026-01-24 | 2 | 1 |
 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | A Datacenter Scale Distributed Inference Serving Framework | Rust | 808 | 2026-01-24 | 1 | 1 |
 | [github/copilot-cli](https://github.com/github/copilot-cli) | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. | Shell | 957 | 2026-01-24 | 1 | 1 |
 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw | Python | 10790 | 2026-01-24 | 1 | 1 |
@@ -201,7 +201,7 @@
 | [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Contrib repository for the OpenTelemetry Collector | Go | 3299 | 2026-02-05 | 1 | 1 |
 | [Canner/WrenAI](https://github.com/Canner/WrenAI) | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds. | TypeScript | 1513 | 2026-02-05 | 1 | 1 |
 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. | Python | 5692 | 2026-02-05 | 1 | 1 |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 0 | 2026-02-06 | 8 | 2 |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 0 | 2026-02-06 | 9 | 2 |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Knowledge Engine for AI Agent Memory in 6 lines of code | Python | 0 | 2026-02-06 | 2 | 2 |
 | [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | Simple Rust VPN Client / Server | Rust | 49 | 2026-02-06 | 2 | 1 |
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | Rust | 2216 | 2026-02-06 | 1 | 1 |
@@ -217,7 +217,7 @@
 | [pydantic/monty](https://github.com/pydantic/monty) | A minimal, secure Python interpreter written in Rust for use by AI | Rust | 165 | 2026-02-09 | 3 | 1 |
 | [home-assistant/addons](https://github.com/home-assistant/addons) | ➕ Docker add-ons for Home Assistant | Shell | 1761 | 2026-02-09 | 1 | 1 |
 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 2763 | 2026-02-10 | 5 | 1 |
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 3626 | 2026-02-10 | 2 | 1 |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 0 | 2026-02-10 | 3 | 2 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 0 | 2026-02-10 | 2 | 2 |
 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 10729 | 2026-02-11 | 3 | 1 |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
@@ -256,7 +256,7 @@
 | [freemocap/freemocap](https://github.com/freemocap/freemocap) | Free Motion Capture for Everyone 💀✨ | Python | 5597 | 2026-02-20 | 2 | 1 |
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! | TypeScript | 783 | 2026-02-20 | 1 | 1 |
 | [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 0 | 2026-02-21 | 7 | 1 |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 7264 | 2026-02-21 | 3 | 1 |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 0 | 2026-02-21 | 4 | 2 |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | C++ | 6120 | 2026-02-21 | 1 | 1 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 31600 | 2026-02-21 | 1 | 1 |
 | [eslint/eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | JavaScript | 27069 | 2026-02-21 | 1 | 1 |
@@ -282,7 +282,7 @@
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 0 | 2026-02-25 | 1 | 1 |
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 0 | 2026-02-25 | 1 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 6 | 2 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 7 | 2 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 | TypeScript | 0 | 2026-02-26 | 5 | 2 |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 3 | 2 |
 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 2026-02-26 | 1 | 1 |
@@ -311,7 +311,7 @@
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | Supercharge Your LLM with the Fastest KV Cache Layer | Python | 0 | 2026-03-04 | 1 | 1 |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 4 | 1 |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 5 | 1 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Build AI Agents, Visually | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots | PowerShell | 0 | 2026-03-06 | 3 | 1 |
@@ -347,7 +347,7 @@
 | [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | Go | 0 | 2026-03-14 | 1 | 1 |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. | Python | 0 | 2026-03-15 | 3 | 1 |
 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | The Dimensional Framework | Python | 0 | 2026-03-15 | 1 | 1 |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 0 | 2026-03-16 | 3 | 1 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 0 | 2026-03-16 | 4 | 1 |
 | [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. | Rust | 0 | 2026-03-16 | 2 | 1 |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 0 | 2026-03-16 | 1 | 1 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | Python | 0 | 2026-03-17 | 2 | 1 |
@@ -358,16 +358,20 @@
 | [newton-physics/newton](https://github.com/newton-physics/newton) | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. | Python | 0 | 2026-03-19 | 3 | 1 |
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | 2026-03-19 | 3 | 1 |
 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux and macOS written in C++ | C++ | 0 | 2026-03-19 | 1 | 1 |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | 2026-03-20 | 4 | 1 |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 0 | 2026-03-20 | 3 | 1 |
-| [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | 2026-03-20 | 3 | 1 |
 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Painless E2E Automation for Mobile and Web | Kotlin | 0 | 2026-03-20 | 1 | 1 |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. | Shell | 0 | 2026-03-20 | 1 | 1 |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | 0 | 2026-03-20 | 1 | 1 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 2 | 1 |
 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories | TypeScript | 0 | 2026-03-21 | 1 | 1 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 1 | 1 |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Model-rocketry aerodynamics and trajectory simulation software | Java | 0 | 2026-03-21 | 1 | 1 |
-| [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | 2026-03-22 | 1 | 1 |
+| [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | 2026-03-22 | 2 | 1 |
 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 0 | 2026-03-22 | 1 | 1 |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) |  | Python | 0 | 2026-03-23 | 1 | 1 |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | 0 | 2026-03-23 | 1 | 1 |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" | Python | 0 | 2026-03-23 | 1 | 1 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | Python | 0 | 2026-03-23 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -376,4 +380,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 73 |
+| 2026-03 | 77 |
