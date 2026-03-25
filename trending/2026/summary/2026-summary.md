@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/24/2026
+> Summary Date: 3/25/2026
 
 ## Statistics Overview
 
-- Total Repositories: 365
+- Total Repositories: 367
 - Summary Year: 2026
 
 ## Repository List
@@ -150,7 +150,7 @@
 | [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. | Python | 394 | 2026-01-25 | 4 | 1 |
 | [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 | Jupyter Notebook | 977 | 2026-01-25 | 2 | 1 |
 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! | Go | 1791 | 2026-01-25 | 1 | 1 |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. | TypeScript | 1593 | 2026-01-26 | 3 | 1 |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. | TypeScript | 0 | 2026-01-26 | 4 | 2 |
 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. | Rust | 940 | 2026-01-26 | 1 | 1 |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | 7448 | 2026-01-26 | 1 | 1 |
 | [Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit) | Conduit Client | TypeScript | 40 | 2026-01-26 | 1 | 1 |
@@ -201,7 +201,7 @@
 | [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | Contrib repository for the OpenTelemetry Collector | Go | 3299 | 2026-02-05 | 1 | 1 |
 | [Canner/WrenAI](https://github.com/Canner/WrenAI) | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds. | TypeScript | 1513 | 2026-02-05 | 1 | 1 |
 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. | Python | 5692 | 2026-02-05 | 1 | 1 |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 0 | 2026-02-06 | 9 | 2 |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | Go | 0 | 2026-02-06 | 10 | 2 |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Knowledge Engine for AI Agent Memory in 6 lines of code | Python | 0 | 2026-02-06 | 2 | 2 |
 | [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | Simple Rust VPN Client / Server | Rust | 49 | 2026-02-06 | 2 | 1 |
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | Rust | 2216 | 2026-02-06 | 1 | 1 |
@@ -216,8 +216,8 @@
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | 3077 | 2026-02-08 | 1 | 1 |
 | [pydantic/monty](https://github.com/pydantic/monty) | A minimal, secure Python interpreter written in Rust for use by AI | Rust | 165 | 2026-02-09 | 3 | 1 |
 | [home-assistant/addons](https://github.com/home-assistant/addons) | ➕ Docker add-ons for Home Assistant | Shell | 1761 | 2026-02-09 | 1 | 1 |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 0 | 2026-02-10 | 5 | 2 |
 | [github/gh-aw](https://github.com/github/gh-aw) | GitHub Agentic Workflows | Go | 2763 | 2026-02-10 | 5 | 1 |
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | Python | 0 | 2026-02-10 | 4 | 2 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 0 | 2026-02-10 | 2 | 2 |
 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | A list of free LLM inference resources accessible via API. | Python | 10729 | 2026-02-11 | 3 | 1 |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
@@ -282,7 +282,7 @@
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 0 | 2026-02-25 | 1 | 1 |
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 0 | 2026-02-25 | 1 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 8 | 2 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 9 | 2 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 | TypeScript | 0 | 2026-02-26 | 5 | 2 |
 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 3 | 2 |
 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 2026-02-26 | 1 | 1 |
@@ -292,10 +292,10 @@
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. | Rust | 0 | 2026-02-27 | 1 | 1 |
 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | TypeScript | 0 | 2026-02-28 | 8 | 2 |
 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 6 | 2 |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-02-28 | 4 | 2 |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-02-28 | 5 | 2 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 6 | 1 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 7 | 1 |
 | [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 4 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
@@ -304,14 +304,14 @@
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 4 | 1 |
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 2 | 1 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 2 | 1 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 3 | 1 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 11 | 1 |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | TypeScript | 0 | 2026-03-04 | 3 | 1 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | Supercharge Your LLM with the Fastest KV Cache Layer | Python | 0 | 2026-03-04 | 1 | 1 |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 6 | 1 |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 7 | 1 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Build AI Agents, Visually | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots | PowerShell | 0 | 2026-03-06 | 3 | 1 |
@@ -347,7 +347,7 @@
 | [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | Go | 0 | 2026-03-14 | 1 | 1 |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. | Python | 0 | 2026-03-15 | 3 | 1 |
 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | The Dimensional Framework | Python | 0 | 2026-03-15 | 1 | 1 |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 0 | 2026-03-16 | 5 | 1 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 0 | 2026-03-16 | 6 | 1 |
 | [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. | Rust | 0 | 2026-03-16 | 2 | 1 |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 0 | 2026-03-16 | 1 | 1 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | Python | 0 | 2026-03-17 | 2 | 1 |
@@ -363,19 +363,21 @@
 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Painless E2E Automation for Mobile and Web | Kotlin | 0 | 2026-03-20 | 1 | 1 |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. | Shell | 0 | 2026-03-20 | 1 | 1 |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | 0 | 2026-03-20 | 1 | 1 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 3 | 1 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 4 | 1 |
 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories | TypeScript | 0 | 2026-03-21 | 1 | 1 |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Model-rocketry aerodynamics and trajectory simulation software | Java | 0 | 2026-03-21 | 1 | 1 |
 | [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | 2026-03-22 | 2 | 1 |
 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 0 | 2026-03-22 | 1 | 1 |
 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | 0 | 2026-03-23 | 2 | 1 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | Python | 0 | 2026-03-23 | 2 | 1 |
 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) |  | Python | 0 | 2026-03-23 | 1 | 1 |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" | Python | 0 | 2026-03-23 | 1 | 1 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | Python | 0 | 2026-03-23 | 1 | 1 |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | Python | 0 | 2026-03-24 | 2 | 1 |
 | [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ | Python | 0 | 2026-03-24 | 1 | 1 |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! | Python | 0 | 2026-03-24 | 1 | 1 |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. |  | 0 | 2026-03-24 | 1 | 1 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic | Python | 0 | 2026-03-24 | 1 | 1 |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | Create and share 3D architectural projects. | TypeScript | 0 | 2026-03-25 | 1 | 1 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Python | 0 | 2026-03-25 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -384,4 +386,4 @@
 |-------|------------------------|
 | 2026-01 | 162 |
 | 2026-02 | 122 |
-| 2026-03 | 81 |
+| 2026-03 | 83 |
