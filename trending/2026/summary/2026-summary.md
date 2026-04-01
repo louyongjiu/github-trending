@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 3/31/2026
+> Summary Date: 4/1/2026
 
 ## Statistics Overview
 
-- Total Repositories: 380
+- Total Repositories: 383
 - Summary Year: 2026
 
 ## Repository List
@@ -44,7 +44,7 @@
 | [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 33834 | 2026-01-05 | 2 | 1 |
 | [5rahim/seanime](https://github.com/5rahim/seanime) | Open-source media server with a web interface and desktop app for anime and manga. | Go | 137 | 2026-01-05 | 1 | 1 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Shell | 0 | 2026-01-06 | 10 | 3 |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 0 | 2026-01-06 | 7 | 2 |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 0 | 2026-01-06 | 8 | 3 |
 | [3b1b/manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | Python | 7041 | 2026-01-06 | 1 | 1 |
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | Python | 0 | 2026-01-07 | 9 | 2 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | C++ | 0 | 2026-01-07 | 7 | 2 |
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 37 | 3 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 38 | 4 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -89,7 +89,7 @@
 | [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | TypeScript | 3278 | 2026-01-12 | 1 | 1 |
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 1905 | 2026-01-12 | 1 | 1 |
 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) |  | Python | 656 | 2026-01-12 | 1 | 1 |
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | Python | 3711 | 2026-01-13 | 4 | 2 |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | Python | 0 | 2026-01-13 | 5 | 3 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | TypeScript | 0 | 2026-01-13 | 2 | 2 |
 | [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-01-13 | 2 | 2 |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 1483 | 2026-01-13 | 1 | 1 |
@@ -127,7 +127,7 @@
 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | TypeScript | 0 | 2026-01-20 | 2 | 2 |
 | [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | Power full Task Manager | C | 229 | 2026-01-20 | 2 | 1 |
 | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) |  | Python | 1520 | 2026-01-20 | 1 | 1 |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | Python | 1074 | 2026-01-21 | 5 | 2 |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | Python | 0 | 2026-01-21 | 6 | 3 |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. | Go | 883 | 2026-01-21 | 1 | 1 |
 | [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |  | 4428 | 2026-01-21 | 1 | 1 |
 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Official Claude Code compound engineering plugin | TypeScript | 665 | 2026-01-22 | 4 | 2 |
@@ -175,8 +175,8 @@
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. |  | 75 | 2026-01-30 | 2 | 1 |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Python | 0 | 2026-02-01 | 6 | 2 |
 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | Neovim AI agent done right | Lua | 131 | 2026-02-01 | 3 | 1 |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | Python | 0 | 2026-02-01 | 2 | 2 |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 5945 | 2026-02-01 | 2 | 1 |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. | Python | 9754 | 2026-02-01 | 1 | 1 |
 | [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | Render Mermaid graphs inside your terminal | Go | 37 | 2026-02-01 | 1 | 1 |
 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. | TypeScript | 262 | 2026-02-01 | 1 | 1 |
 | [cline/cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. | TypeScript | 5690 | 2026-02-01 | 1 | 1 |
@@ -295,7 +295,7 @@
 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 6 | 2 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 9 | 1 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 10 | 2 |
 | [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 4 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
@@ -348,7 +348,7 @@
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. | Python | 0 | 2026-03-15 | 3 | 1 |
 | [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | The Dimensional Framework | Python | 0 | 2026-03-15 | 1 | 1 |
 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 0 | 2026-03-16 | 7 | 1 |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 0 | 2026-03-16 | 2 | 1 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 0 | 2026-03-16 | 3 | 2 |
 | [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. | Rust | 0 | 2026-03-16 | 2 | 1 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | Python | 0 | 2026-03-17 | 2 | 1 |
 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault | TypeScript | 0 | 2026-03-17 | 1 | 1 |
@@ -364,7 +364,7 @@
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. | Shell | 0 | 2026-03-20 | 1 | 1 |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | 0 | 2026-03-20 | 1 | 1 |
 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 4 | 1 |
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories | TypeScript | 0 | 2026-03-21 | 1 | 1 |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories | TypeScript | 0 | 2026-03-21 | 2 | 2 |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Model-rocketry aerodynamics and trajectory simulation software | Java | 0 | 2026-03-21 | 1 | 1 |
 | [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | 2026-03-22 | 2 | 1 |
 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | A framework for efficient model inference with omni-modality models | Python | 0 | 2026-03-22 | 1 | 1 |
@@ -381,16 +381,19 @@
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] | Python | 0 | 2026-03-26 | 1 | 1 |
 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | Give Claude Code a subconscious | TypeScript | 0 | 2026-03-26 | 1 | 1 |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI hackers to find and fix your app’s vulnerabilities. | Python | 0 | 2026-03-26 | 1 | 1 |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 0 | 2026-03-27 | 3 | 1 |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 0 | 2026-03-27 | 4 | 2 |
 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | Python | 0 | 2026-03-27 | 3 | 1 |
 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |  | Jupyter Notebook | 0 | 2026-03-27 | 2 | 1 |
 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search | Python | 0 | 2026-03-28 | 2 | 1 |
 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 0 | 2026-03-28 | 2 | 1 |
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 0 | 2026-03-28 | 1 | 1 |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | Python | 0 | 2026-03-30 | 2 | 1 |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | Python | 0 | 2026-03-30 | 3 | 2 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 0 | 2026-03-30 | 2 | 1 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 2 | 2 |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 0 | 2026-03-31 | 1 | 1 |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 1 | 1 |
+| [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex Skills | Shell | 0 | 2026-04-01 | 1 | 1 |
+| [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | 0 | 2026-04-01 | 1 | 1 |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |  | 0 | 2026-04-01 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -400,3 +403,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
+| 2026-04 | 3 |
