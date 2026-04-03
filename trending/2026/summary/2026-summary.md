@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/2/2026
+> Summary Date: 4/3/2026
 
 ## Statistics Overview
 
-- Total Repositories: 384
+- Total Repositories: 386
 - Summary Year: 2026
 
 ## Repository List
@@ -159,7 +159,7 @@
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. | Python | 0 | 2026-01-28 | 8 | 3 |
 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods | TypeScript | 593 | 2026-01-28 | 6 | 2 |
 | [hashicorp/vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | Go | 4572 | 2026-01-28 | 4 | 1 |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini | JavaScript | 4636 | 2026-01-29 | 3 | 1 |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly. |  | 0 | 2026-01-29 | 4 | 2 |
 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers | TypeScript | 131 | 2026-01-29 | 3 | 1 |
 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Kimi Code CLI is your next CLI agent. | Python | 498 | 2026-01-29 | 3 | 1 |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. | TypeScript | 14566 | 2026-01-29 | 3 | 1 |
@@ -389,12 +389,14 @@
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 0 | 2026-03-28 | 1 | 1 |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | Python | 0 | 2026-03-30 | 4 | 2 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 0 | 2026-03-30 | 2 | 1 |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 2 | 2 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 3 | 2 |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 0 | 2026-03-31 | 1 | 1 |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex Skills | Shell | 0 | 2026-04-01 | 1 | 1 |
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | 0 | 2026-04-01 | 1 | 1 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |  | 0 | 2026-04-01 | 1 | 1 |
 | [axios/axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | JavaScript | 0 | 2026-04-02 | 1 | 1 |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 0 | 2026-04-03 | 1 | 1 |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 0 | 2026-04-03 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -404,4 +406,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 4 |
+| 2026-04 | 6 |
