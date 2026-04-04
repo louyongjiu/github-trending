@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/3/2026
+> Summary Date: 4/4/2026
 
 ## Statistics Overview
 
-- Total Repositories: 386
+- Total Repositories: 387
 - Summary Year: 2026
 
 ## Repository List
@@ -257,7 +257,7 @@
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! | TypeScript | 783 | 2026-02-20 | 1 | 1 |
 | [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 0 | 2026-02-21 | 7 | 1 |
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 0 | 2026-02-21 | 5 | 2 |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 0 | 2026-02-21 | 2 | 2 |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 0 | 2026-02-21 | 3 | 2 |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | C++ | 6120 | 2026-02-21 | 1 | 1 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 31600 | 2026-02-21 | 1 | 1 |
 | [eslint/eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | JavaScript | 27069 | 2026-02-21 | 1 | 1 |
@@ -273,7 +273,7 @@
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | Dart | 26458 | 2026-02-22 | 1 | 1 |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |  | 0 | 2026-02-23 | 4 | 1 |
 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | Python | 0 | 2026-02-24 | 5 | 1 |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | HTML | 0 | 2026-02-24 | 2 | 2 |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | HTML | 0 | 2026-02-24 | 3 | 2 |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely | TypeScript | 0 | 2026-02-24 | 2 | 1 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model | Jupyter Notebook | 72523 | 2026-02-24 | 1 | 1 |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 98352 | 2026-02-24 | 1 | 1 |
@@ -384,19 +384,20 @@
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 0 | 2026-03-27 | 4 | 2 |
 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | Python | 0 | 2026-03-27 | 3 | 1 |
 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |  | Jupyter Notebook | 0 | 2026-03-27 | 2 | 1 |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 0 | 2026-03-28 | 3 | 2 |
 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search | Python | 0 | 2026-03-28 | 2 | 1 |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 0 | 2026-03-28 | 2 | 1 |
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 0 | 2026-03-28 | 1 | 1 |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | Python | 0 | 2026-03-30 | 4 | 2 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 0 | 2026-03-30 | 2 | 1 |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 3 | 2 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 4 | 2 |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 0 | 2026-03-31 | 1 | 1 |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex Skills | Shell | 0 | 2026-04-01 | 1 | 1 |
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | 0 | 2026-04-01 | 1 | 1 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |  | 0 | 2026-04-01 | 1 | 1 |
 | [axios/axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | JavaScript | 0 | 2026-04-02 | 1 | 1 |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 0 | 2026-04-03 | 1 | 1 |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 0 | 2026-04-03 | 1 | 1 |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 0 | 2026-04-03 | 2 | 1 |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 0 | 2026-04-03 | 2 | 1 |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS | Rust | 0 | 2026-04-04 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -406,4 +407,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 6 |
+| 2026-04 | 7 |
