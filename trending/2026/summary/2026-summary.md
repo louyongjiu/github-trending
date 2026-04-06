@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/5/2026
+> Summary Date: 4/6/2026
 
 ## Statistics Overview
 
-- Total Repositories: 390
+- Total Repositories: 392
 - Summary Year: 2026
 
 ## Repository List
@@ -135,8 +135,8 @@
 | [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! | Jupyter Notebook | 6877 | 2026-01-22 | 3 | 1 |
 | [xai-org/grok-1](https://github.com/xai-org/grok-1) | Grok open release | Python | 8461 | 2026-01-22 | 2 | 1 |
 | [virattt/dexter](https://github.com/virattt/dexter) | An autonomous agent for deep financial research | TypeScript | 0 | 2026-01-23 | 8 | 3 |
+| [block/goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | 0 | 2026-01-23 | 6 | 2 |
 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🎥 Make videos programmatically with React | TypeScript | 1936 | 2026-01-23 | 5 | 1 |
-| [block/goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | 0 | 2026-01-23 | 5 | 2 |
 | [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | FlashMLA: Efficient Multi-head Latent Attention Kernels | C++ | 964 | 2026-01-23 | 2 | 1 |
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | TypeScript | 1450 | 2026-01-23 | 1 | 1 |
 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | Download videos from almost any website worldwide | TypeScript | 338 | 2026-01-23 | 1 | 1 |
@@ -157,7 +157,7 @@
 | [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. | C++ | 1609 | 2026-01-27 | 1 | 1 |
 | [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. | Python | 773 | 2026-01-27 | 1 | 1 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. | Python | 0 | 2026-01-28 | 8 | 3 |
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods | TypeScript | 593 | 2026-01-28 | 6 | 2 |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods | TypeScript | 0 | 2026-01-28 | 7 | 3 |
 | [hashicorp/vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | Go | 4572 | 2026-01-28 | 4 | 1 |
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly. |  | 0 | 2026-01-29 | 4 | 2 |
 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers | TypeScript | 131 | 2026-01-29 | 3 | 1 |
@@ -384,23 +384,25 @@
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 0 | 2026-03-27 | 4 | 2 |
 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | Python | 0 | 2026-03-27 | 3 | 1 |
 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |  | Jupyter Notebook | 0 | 2026-03-27 | 2 | 1 |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 0 | 2026-03-28 | 4 | 2 |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Open Source AI Platform - AI Chat with advanced features that works with every LLM | Python | 0 | 2026-03-28 | 5 | 2 |
 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search | Python | 0 | 2026-03-28 | 2 | 1 |
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. | C++ | 0 | 2026-03-28 | 1 | 1 |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. | Python | 0 | 2026-03-30 | 4 | 2 |
 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 0 | 2026-03-30 | 2 | 1 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 0 | 2026-03-31 | 5 | 2 |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 0 | 2026-03-31 | 1 | 1 |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | TypeScript | 0 | 2026-03-31 | 2 | 2 |
 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | My Codex Skills | Shell | 0 | 2026-04-01 | 1 | 1 |
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | 0 | 2026-04-01 | 1 | 1 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |  | 0 | 2026-04-01 | 1 | 1 |
 | [axios/axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js | JavaScript | 0 | 2026-04-02 | 1 | 1 |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 0 | 2026-04-03 | 3 | 1 |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. | TypeScript | 0 | 2026-04-03 | 4 | 1 |
 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 0 | 2026-04-03 | 3 | 1 |
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS | Rust | 0 | 2026-04-04 | 1 | 1 |
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. | Python | 0 | 2026-04-05 | 1 | 1 |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | C++ | 0 | 2026-04-05 | 1 | 1 |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS | Rust | 0 | 2026-04-04 | 2 | 1 |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. | Python | 0 | 2026-04-05 | 2 | 1 |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app | C++ | 0 | 2026-04-05 | 2 | 1 |
 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. | Python | 0 | 2026-04-05 | 1 | 1 |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. | Kotlin | 0 | 2026-04-06 | 1 | 1 |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) |  | C++ | 0 | 2026-04-06 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -410,4 +412,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 10 |
+| 2026-04 | 12 |
