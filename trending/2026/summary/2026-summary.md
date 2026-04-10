@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/9/2026
+> Summary Date: 4/10/2026
 
 ## Statistics Overview
 
-- Total Repositories: 403
+- Total Repositories: 405
 - Summary Year: 2026
 
 ## Repository List
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 39 | 4 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 40 | 4 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -119,8 +119,8 @@
 | [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. | TypeScript | 783 | 2026-01-17 | 1 | 1 |
 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents | TypeScript | 1069 | 2026-01-17 | 1 | 1 |
 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 0 | 2026-01-19 | 5 | 3 |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Python | 0 | 2026-01-19 | 3 | 2 |
 | [tobi/try](https://github.com/tobi/try) | fresh directories for every vibe | Shell | 117 | 2026-01-19 | 3 | 1 |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning | Python | 586 | 2026-01-19 | 2 | 1 |
 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  | Batchfile | 1831 | 2026-01-19 | 2 | 2 |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | Python | 11519 | 2026-01-19 | 1 | 1 |
 | [Mebus/cupp](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) | Python | 1762 | 2026-01-19 | 1 | 1 |
@@ -295,7 +295,7 @@
 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 6 | 2 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 11 | 2 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 12 | 2 |
 | [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 4 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
@@ -314,7 +314,7 @@
 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. | Python | 0 | 2026-03-05 | 8 | 1 |
 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered answering engine. | TypeScript | 0 | 2026-03-05 | 1 | 1 |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | Build AI Agents, Visually | TypeScript | 0 | 2026-03-05 | 1 | 1 |
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. | Python | 0 | 2026-03-06 | 4 | 2 |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. | Python | 0 | 2026-03-06 | 5 | 2 |
 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots | PowerShell | 0 | 2026-03-06 | 3 | 1 |
 | [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. | Python | 0 | 2026-03-06 | 2 | 1 |
 | [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. | Jupyter Notebook | 0 | 2026-03-06 | 1 | 1 |
@@ -351,15 +351,15 @@
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | practice made claude perfect | HTML | 0 | 2026-03-16 | 3 | 2 |
 | [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) | Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. | Rust | 0 | 2026-03-16 | 2 | 1 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | Python | 0 | 2026-03-17 | 2 | 1 |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault | TypeScript | 0 | 2026-03-17 | 1 | 1 |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault | TypeScript | 0 | 2026-03-17 | 2 | 2 |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | JavaScript | 0 | 2026-03-18 | 5 | 1 |
 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 0 | 2026-03-18 | 1 | 1 |
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | C++ | 0 | 2026-03-18 | 1 | 1 |
 | [newton-physics/newton](https://github.com/newton-physics/newton) | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. | Python | 0 | 2026-03-19 | 4 | 2 |
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | 2026-03-19 | 3 | 1 |
 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux and macOS written in C++ | C++ | 0 | 2026-03-19 | 1 | 1 |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 0 | 2026-03-20 | 4 | 2 |
 | [louis-e/arnis](https://github.com/louis-e/arnis) | Generate any location from the real world in Minecraft with a high level of detail. | Rust | 0 | 2026-03-20 | 4 | 1 |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | Java | 0 | 2026-03-20 | 3 | 1 |
 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Painless E2E Automation for Mobile and Web | Kotlin | 0 | 2026-03-20 | 1 | 1 |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. | Shell | 0 | 2026-03-20 | 1 | 1 |
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | 0 | 2026-03-20 | 1 | 1 |
@@ -410,10 +410,12 @@
 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Telegram-iOS | Swift | 0 | 2026-04-07 | 1 | 1 |
 | [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | Go | 0 | 2026-04-07 | 1 | 1 |
 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | C++ | 0 | 2026-04-07 | 1 | 1 |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |  | 0 | 2026-04-08 | 2 | 1 |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |  | 0 | 2026-04-08 | 3 | 1 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ | Python | 0 | 2026-04-08 | 2 | 1 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | "DeepTutor: Agent-Native Personalized Learning Assistant" | Python | 0 | 2026-04-08 | 1 | 1 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | "DeepTutor: Agent-Native Personalized Learning Assistant" | Python | 0 | 2026-04-08 | 2 | 1 |
 | [goharbor/harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | Go | 0 | 2026-04-09 | 1 | 1 |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 0 | 2026-04-10 | 1 | 1 |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 0 | 2026-04-10 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -423,4 +425,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 23 |
+| 2026-04 | 25 |
