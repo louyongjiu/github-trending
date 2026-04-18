@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/17/2026
+> Summary Date: 4/18/2026
 
 ## Statistics Overview
 
-- Total Repositories: 425
+- Total Repositories: 428
 - Summary Year: 2026
 
 ## Repository List
@@ -57,7 +57,7 @@
 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. | Python | 1531 | 2026-01-07 | 1 | 1 |
 | [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | Free Introduction to Bash Scripting eBook | HTML | 574 | 2026-01-07 | 1 | 1 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. | TypeScript | 0 | 2026-01-08 | 14 | 4 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 25490 | 2026-01-08 | 9 | 2 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 0 | 2026-01-08 | 10 | 3 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 10663 | 2026-01-08 | 4 | 1 |
 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. | Python | 269 | 2026-01-08 | 4 | 1 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | Jupyter Notebook | 29380 | 2026-01-08 | 3 | 2 |
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 44 | 4 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 45 | 4 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -422,20 +422,23 @@
 | [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) | 💅🏻 ⚒ A collection of awesome design systems |  | 0 | 2026-04-12 | 1 | 1 |
 | [snarktank/ralph](https://github.com/snarktank/ralph) | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. | TypeScript | 0 | 2026-04-13 | 2 | 1 |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | Rust | 0 | 2026-04-13 | 1 | 1 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio | TypeScript | 0 | 2026-04-14 | 4 | 1 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio | TypeScript | 0 | 2026-04-14 | 5 | 1 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | Jupyter Notebook | 0 | 2026-04-14 | 2 | 1 |
 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | Assembly | 0 | 2026-04-15 | 2 | 1 |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 2 | 1 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 3 | 1 |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | 0 | 2026-04-16 | 3 | 1 |
+| [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 3 | 1 |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | TypeScript | 0 | 2026-04-16 | 2 | 1 |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | 0 | 2026-04-16 | 2 | 1 |
-| [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 2 | 1 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | Shell | 0 | 2026-04-16 | 1 | 1 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | Shell | 0 | 2026-04-16 | 2 | 1 |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | DFlash: Block Diffusion for Flash Speculative Decoding | Python | 0 | 2026-04-17 | 2 | 1 |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | Python | 0 | 2026-04-17 | 2 | 1 |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. evomap.ai | JavaScript | 0 | 2026-04-17 | 2 | 1 |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | Shell | 0 | 2026-04-17 | 2 | 1 |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | Dart | 0 | 2026-04-17 | 2 | 1 |
 | [steipete/wacli](https://github.com/steipete/wacli) | WhatsApp CLI | Go | 0 | 2026-04-17 | 1 | 1 |
-| [z-lab/dflash](https://github.com/z-lab/dflash) | DFlash: Block Diffusion for Flash Speculative Decoding | Python | 0 | 2026-04-17 | 1 | 1 |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | Python | 0 | 2026-04-17 | 1 | 1 |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. evomap.ai | JavaScript | 0 | 2026-04-17 | 1 | 1 |
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | Shell | 0 | 2026-04-17 | 1 | 1 |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | Dart | 0 | 2026-04-17 | 1 | 1 |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) |  | TypeScript | 0 | 2026-04-18 | 1 | 1 |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Build your own AI SRE agents. The open source toolkit for the AI era ✨ | Python | 0 | 2026-04-18 | 1 | 1 |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |  | TypeScript | 0 | 2026-04-18 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -445,4 +448,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 45 |
+| 2026-04 | 48 |
