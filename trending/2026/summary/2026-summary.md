@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/20/2026
+> Summary Date: 4/21/2026
 
 ## Statistics Overview
 
-- Total Repositories: 435
+- Total Repositories: 438
 - Summary Year: 2026
 
 ## Repository List
@@ -304,7 +304,7 @@
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 7 | 2 |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 4 | 1 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 6 | 2 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 7 | 2 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 11 | 1 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 4 | 1 |
@@ -430,7 +430,7 @@
 | [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 3 | 1 |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | Shell | 0 | 2026-04-16 | 3 | 1 |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | TypeScript | 0 | 2026-04-16 | 2 | 1 |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | Python | 0 | 2026-04-17 | 4 | 1 |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | Python | 0 | 2026-04-17 | 5 | 1 |
 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. evomap.ai | JavaScript | 0 | 2026-04-17 | 4 | 1 |
 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | Dart | 0 | 2026-04-17 | 4 | 1 |
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | Shell | 0 | 2026-04-17 | 3 | 1 |
@@ -439,13 +439,16 @@
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |  | TypeScript | 0 | 2026-04-18 | 2 | 1 |
 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) |  | TypeScript | 0 | 2026-04-18 | 1 | 1 |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Build your own AI SRE agents. The open source toolkit for the AI era ✨ | Python | 0 | 2026-04-18 | 1 | 1 |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. | TypeScript | 0 | 2026-04-19 | 2 | 1 |
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | Enterprise Architecture Governance & Vendor Procurement Toolkit | HTML | 0 | 2026-04-19 | 2 | 1 |
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling | Cuda | 0 | 2026-04-19 | 1 | 1 |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. | TypeScript | 0 | 2026-04-19 | 3 | 1 |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | Enterprise Architecture Governance & Vendor Procurement Toolkit | HTML | 0 | 2026-04-19 | 3 | 1 |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling | Cuda | 0 | 2026-04-19 | 2 | 1 |
 | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Claude Desktop for Debian-based Linux distributions | Shell | 0 | 2026-04-19 | 1 | 1 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 0 | 2026-04-19 | 1 | 1 |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. | Python | 0 | 2026-04-20 | 1 | 1 |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged document management system: scan, index and archive all your documents | Python | 0 | 2026-04-20 | 1 | 1 |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. | Python | 0 | 2026-04-20 | 2 | 1 |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged document management system: scan, index and archive all your documents | Python | 0 | 2026-04-20 | 2 | 1 |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface | TypeScript | 0 | 2026-04-21 | 1 | 1 |
+| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | Shell | 0 | 2026-04-21 | 1 | 1 |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. | Go | 0 | 2026-04-21 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -455,4 +458,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 55 |
+| 2026-04 | 58 |
