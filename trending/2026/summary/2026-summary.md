@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 4/26/2026
+> Summary Date: 4/27/2026
 
 ## Statistics Overview
 
-- Total Repositories: 464
+- Total Repositories: 468
 - Summary Year: 2026
 
 ## Repository List
@@ -168,7 +168,7 @@
 | [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports | C++ | 29 | 2026-01-29 | 1 | 1 |
 | [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab and other 3D printers | C++ | 587 | 2026-01-29 | 1 | 1 |
 | [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) | Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency. | Python | 373 | 2026-01-29 | 1 | 1 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 0 | 2026-01-30 | 12 | 3 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | TypeScript | 0 | 2026-01-30 | 13 | 4 |
 | [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | 4829 | 2026-01-30 | 3 | 2 |
 | [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) |  | JavaScript | 55 | 2026-01-30 | 2 | 1 |
 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 3422 | 2026-01-30 | 2 | 1 |
@@ -257,14 +257,14 @@
 | [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! | TypeScript | 783 | 2026-02-20 | 1 | 1 |
 | [huggingface/skills](https://github.com/huggingface/skills) |  | Python | 0 | 2026-02-21 | 7 | 1 |
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Fully autonomous AI Agents system capable of performing complex penetration testing tasks | Go | 0 | 2026-02-21 | 5 | 2 |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 0 | 2026-02-21 | 3 | 2 |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. | Python | 0 | 2026-02-21 | 4 | 2 |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | 0 | 2026-02-21 | 3 | 2 |
 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. | C++ | 6120 | 2026-02-21 | 1 | 1 |
 | [eslint/eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | JavaScript | 27069 | 2026-02-21 | 1 | 1 |
 | [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | Core libraries and experimental work for Effect v4 | TypeScript | 380 | 2026-02-21 | 1 | 1 |
 | [roboflow/trackers](https://github.com/roboflow/trackers) | Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use. | Python | 2748 | 2026-02-21 | 1 | 1 |
 | [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) | Databricks Toolkit for Coding Agents provided by Field Engineering | Python | 564 | 2026-02-21 | 1 | 1 |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration | TypeScript | 0 | 2026-02-22 | 11 | 3 |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration | TypeScript | 0 | 2026-02-22 | 12 | 3 |
 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | C# | 0 | 2026-02-22 | 3 | 2 |
 | [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | Make beautiful isometric infrastructure diagrams | TypeScript | 18604 | 2026-02-22 | 3 | 1 |
 | [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | Stremio - Freedom to Stream | JavaScript | 9992 | 2026-02-22 | 3 | 1 |
@@ -353,7 +353,7 @@
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. | Python | 0 | 2026-03-17 | 2 | 1 |
 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault | TypeScript | 0 | 2026-03-17 | 2 | 2 |
 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress | JavaScript | 0 | 2026-03-18 | 5 | 1 |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 0 | 2026-03-18 | 3 | 2 |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. | Markdown | 0 | 2026-03-18 | 4 | 2 |
 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers | C++ | 0 | 2026-03-18 | 1 | 1 |
 | [newton-physics/newton](https://github.com/newton-physics/newton) | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. | Python | 0 | 2026-03-19 | 4 | 2 |
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | An Open-Source Asynchronous Coding Agent | Python | 0 | 2026-03-19 | 3 | 1 |
@@ -454,27 +454,31 @@
 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 12 Lessons to Get Started Building AI Agents | Jupyter Notebook | 0 | 2026-04-22 | 2 | 1 |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |  | 0 | 2026-04-22 | 2 | 1 |
 | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | A flexible enhancer for YouTube on iOS | Logos | 0 | 2026-04-22 | 1 | 1 |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | Python | 0 | 2026-04-23 | 4 | 1 |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | Python | 0 | 2026-04-23 | 5 | 1 |
 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. | TypeScript | 0 | 2026-04-23 | 3 | 1 |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 | TypeScript | 0 | 2026-04-23 | 1 | 1 |
 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🚀 AI 全自动短视频引擎 AI Fully Automated Short Video Engine | Python | 0 | 2026-04-23 | 1 | 1 |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | TypeScript | 0 | 2026-04-23 | 1 | 1 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw | Python | 0 | 2026-04-24 | 4 | 1 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 0 | 2026-04-24 | 3 | 1 |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw | Python | 0 | 2026-04-24 | 3 | 1 |
 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 2 | 1 |
 | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 0 | 2026-04-24 | 1 | 1 |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms | TypeScript | 0 | 2026-04-24 | 1 | 1 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 0 | 2026-04-24 | 1 | 1 |
 | [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) | [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) | Jupyter Notebook | 0 | 2026-04-24 | 1 | 1 |
 | [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | DeepEP: an efficient expert-parallel communication library | Cuda | 0 | 2026-04-25 | 2 | 1 |
+| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | My personal directory of skills, straight from my .claude directory. | Shell | 0 | 2026-04-26 | 1 | 1 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Agent Skills for real engineers. Straight from my .claude directory. | Shell | 0 | 2026-04-26 | 2 | 1 |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 2 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 1 | 1 |
 | [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) | Specification and documentation for the Universal Commerce Protocol (UCP) | Python | 0 | 2026-04-26 | 1 | 1 |
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 1 | 1 |
+| [trycua/cua](https://github.com/trycua/cua) | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). | HTML | 0 | 2026-04-27 | 1 | 1 |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | Beads - A memory upgrade for your coding agent | Go | 0 | 2026-04-27 | 1 | 1 |
+| [curl/curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features | C | 0 | 2026-04-27 | 1 | 1 |
+| [home-assistant/core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. | Python | 0 | 2026-04-27 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -484,4 +488,4 @@
 | 2026-01 | 162 |
 | 2026-02 | 122 |
 | 2026-03 | 96 |
-| 2026-04 | 84 |
+| 2026-04 | 88 |
