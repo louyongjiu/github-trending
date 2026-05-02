@@ -1,6 +1,6 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/1/2026
+> Summary Date: 5/2/2026
 
 ## Statistics Overview
 
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 47 | 5 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 48 | 5 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -84,8 +84,8 @@
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. | JavaScript | 1960 | 2026-01-11 | 1 | 1 |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | CLI tool for configuring and monitoring Claude Code | Python | 0 | 2026-01-12 | 5 | 3 |
 | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 📘 Home Assistant User documentation | HTML | 8118 | 2026-01-12 | 3 | 1 |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | TypeScript | 0 | 2026-01-12 | 3 | 2 |
 | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | Autonomous AI development loop for Claude Code with intelligent exit detection | Shell | 155 | 2026-01-12 | 2 | 1 |
-| [simstudioai/sim](https://github.com/simstudioai/sim) | Open-source platform to build and deploy AI agent workflows. | TypeScript | 3264 | 2026-01-12 | 2 | 1 |
 | [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. | TypeScript | 3278 | 2026-01-12 | 1 | 1 |
 | [twitter/twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ | HTML | 1905 | 2026-01-12 | 1 | 1 |
 | [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) |  | Python | 656 | 2026-01-12 | 1 | 1 |
@@ -120,8 +120,8 @@
 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents | TypeScript | 1069 | 2026-01-17 | 1 | 1 |
 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | A high-performance algorithmic trading platform and event-driven backtester | Rust | 0 | 2026-01-19 | 5 | 3 |
 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning | Python | 0 | 2026-01-19 | 5 | 2 |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  | Batchfile | 0 | 2026-01-19 | 3 | 3 |
 | [tobi/try](https://github.com/tobi/try) | fresh directories for every vibe | Shell | 117 | 2026-01-19 | 3 | 1 |
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  | Batchfile | 1831 | 2026-01-19 | 2 | 2 |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | Python | 11519 | 2026-01-19 | 1 | 1 |
 | [Mebus/cupp](https://github.com/Mebus/cupp) | Common User Passwords Profiler (CUPP) | Python | 1762 | 2026-01-19 | 1 | 1 |
 | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) |  | Python | 0 | 2026-01-20 | 3 | 2 |
@@ -363,7 +363,7 @@
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | 0 | 2026-03-20 | 2 | 2 |
 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Painless E2E Automation for Mobile and Web | Kotlin | 0 | 2026-03-20 | 1 | 1 |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Deep clean and optimize your Mac. | Shell | 0 | 2026-03-20 | 1 | 1 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 6 | 3 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 0 | 2026-03-21 | 7 | 3 |
 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories | TypeScript | 0 | 2026-03-21 | 2 | 2 |
 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | Model-rocketry aerodynamics and trajectory simulation software | Java | 0 | 2026-03-21 | 1 | 1 |
 | [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | C | 0 | 2026-03-22 | 2 | 1 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | 0 | 2026-04-26 | 6 | 2 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | 0 | 2026-04-26 | 7 | 2 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -485,15 +485,15 @@
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books | Python | 0 | 2026-04-29 | 2 | 1 |
 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. | Kotlin | 0 | 2026-04-29 | 2 | 2 |
 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! | JavaScript | 0 | 2026-04-29 | 1 | 1 |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | Rust | 0 | 2026-04-30 | 2 | 2 |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Coding Agent Harness | Rust | 0 | 2026-04-30 | 2 | 2 |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites | Python | 0 | 2026-04-30 | 2 | 2 |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | Rust | 0 | 2026-04-30 | 3 | 2 |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Coding Agent Harness | Rust | 0 | 2026-04-30 | 3 | 2 |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites | Python | 0 | 2026-04-30 | 3 | 2 |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. | Python | 0 | 2026-04-30 | 1 | 1 |
 | [iv-org/invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube | Crystal | 0 | 2026-04-30 | 1 | 1 |
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | JavaScript | 0 | 2026-04-30 | 1 | 1 |
+| [browserbase/skills](https://github.com/browserbase/skills) | Claude Agent SDK with a web browsing tool | JavaScript | 0 | 2026-05-01 | 2 | 1 |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | Zig | 0 | 2026-05-01 | 1 | 1 |
 | [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) | Video discussing this curriculum: |  | 0 | 2026-05-01 | 1 | 1 |
-| [browserbase/skills](https://github.com/browserbase/skills) | Claude Agent SDK with a web browsing tool | JavaScript | 0 | 2026-05-01 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
