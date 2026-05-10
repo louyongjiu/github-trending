@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/9/2026
+> Summary Date: 5/10/2026
 
 ## Statistics Overview
 
-- Total Repositories: 501
+- Total Repositories: 506
 - Summary Year: 2026
 
 ## Repository List
@@ -57,7 +57,7 @@
 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. | Python | 1531 | 2026-01-07 | 1 | 1 |
 | [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | Free Introduction to Bash Scripting eBook | HTML | 574 | 2026-01-07 | 1 | 1 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. | TypeScript | 0 | 2026-01-08 | 14 | 4 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 0 | 2026-01-08 | 10 | 3 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 0 | 2026-01-08 | 11 | 4 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 10663 | 2026-01-08 | 4 | 1 |
 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. | Python | 269 | 2026-01-08 | 4 | 1 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | Jupyter Notebook | 29380 | 2026-01-08 | 3 | 2 |
@@ -73,7 +73,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 48 | 5 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 2647 | 2026-01-10 | 6 | 2 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 0 | 2026-01-10 | 7 | 3 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | TypeScript | 4930 | 2026-01-10 | 1 | 1 |
@@ -223,7 +223,7 @@
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. | Python | 1973 | 2026-02-11 | 2 | 1 |
 | [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | Interactive course teaching Product Managers how to use Claude Code effectively | MDX | 153 | 2026-02-11 | 1 | 1 |
 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. | JavaScript | 2843 | 2026-02-11 | 1 | 1 |
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 0 | 2026-02-13 | 5 | 2 |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | Open-source AI coworker, with memory | TypeScript | 0 | 2026-02-13 | 6 | 3 |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. | Python | 0 | 2026-02-13 | 3 | 2 |
 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | Agentic AI Infrastructure for magnifying HUMAN capabilities. | TypeScript | 8142 | 2026-02-13 | 2 | 1 |
 | [cinnyapp/cinny](https://github.com/cinnyapp/cinny) | Yet another matrix client | TypeScript | 3060 | 2026-02-13 | 2 | 1 |
@@ -284,7 +284,7 @@
 | [openemr/openemr](https://github.com/openemr/openemr) | The most popular open source electronic health records and medical practice management solution. | PHP | 0 | 2026-02-25 | 1 | 1 |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | 0 | 2026-02-26 | 12 | 3 |
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 | TypeScript | 0 | 2026-02-26 | 6 | 2 |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 4 | 3 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 0 | 2026-02-26 | 5 | 3 |
 | [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) | Ongoing research training transformer models at scale | Python | 0 | 2026-02-26 | 1 | 1 |
 | [katanemo/plano](https://github.com/katanemo/plano) | Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework). | Rust | 0 | 2026-02-26 | 1 | 1 |
 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 | JavaScript | 0 | 2026-02-26 | 1 | 1 |
@@ -425,7 +425,7 @@
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio | TypeScript | 0 | 2026-04-14 | 5 | 1 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | Jupyter Notebook | 0 | 2026-04-14 | 2 | 1 |
 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | Assembly | 0 | 2026-04-15 | 2 | 1 |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 4 | 1 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 5 | 2 |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | TypeScript | 0 | 2026-04-16 | 3 | 2 |
 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | 0 | 2026-04-16 | 3 | 1 |
 | [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 3 | 1 |
@@ -505,13 +505,18 @@
 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ | Python | 0 | 2026-05-06 | 3 | 1 |
 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | VSCode theme based off the easemate IDE and Jetbrains islands theme | PowerShell | 0 | 2026-05-06 | 2 | 1 |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | Python | 0 | 2026-05-06 | 1 | 1 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Shell | 0 | 2026-05-07 | 3 | 1 |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) |  | Python | 0 | 2026-05-07 | 3 | 1 |
-| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 2 | 1 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Shell | 0 | 2026-05-07 | 4 | 1 |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) |  | Python | 0 | 2026-05-07 | 4 | 1 |
+| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 3 | 1 |
 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 1 | 1 |
 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | Python | 0 | 2026-05-09 | 1 | 1 |
 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | "AI-Trader: 100% Fully-Automated Agent-Native Trading" | Python | 0 | 2026-05-09 | 1 | 1 |
 | [flutter/skills](https://github.com/flutter/skills) |  | Dart | 0 | 2026-05-09 | 1 | 1 |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 0 | 2026-05-10 | 1 | 1 |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 Your first modern programming course for beginners to master step by step. | JavaScript | 0 | 2026-05-10 | 1 | 1 |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | Go | 0 | 2026-05-10 | 1 | 1 |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | TypeScript | 0 | 2026-05-10 | 1 | 1 |
+| [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) | Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services | Jupyter Notebook | 0 | 2026-05-10 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -522,4 +527,4 @@
 | 2026-02 | 122 |
 | 2026-03 | 96 |
 | 2026-04 | 100 |
-| 2026-05 | 21 |
+| 2026-05 | 26 |
