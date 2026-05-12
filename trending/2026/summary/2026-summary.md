@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/11/2026
+> Summary Date: 5/12/2026
 
 ## Statistics Overview
 
-- Total Repositories: 507
+- Total Repositories: 512
 - Summary Year: 2026
 
 ## Repository List
@@ -73,7 +73,7 @@
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 48 | 5 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 0 | 2026-01-10 | 8 | 3 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 0 | 2026-01-10 | 9 | 3 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | TypeScript | 4930 | 2026-01-10 | 1 | 1 |
@@ -295,7 +295,7 @@
 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. | Python | 0 | 2026-02-28 | 6 | 2 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | JavaScript | 0 | 2026-02-28 | 2 | 2 |
 | [tukaani-project/xz](https://github.com/tukaani-project/xz) | XZ Utils | C | 0 | 2026-02-28 | 2 | 2 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 17 | 2 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 0 | 2026-03-01 | 18 | 3 |
 | [superset-sh/superset](https://github.com/superset-sh/superset) | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine | TypeScript | 0 | 2026-03-01 | 4 | 1 |
 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | Mobile-Agent: The Powerful GUI Agent Family | Python | 0 | 2026-03-01 | 2 | 1 |
 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） | C++ | 0 | 2026-03-01 | 1 | 1 |
@@ -425,7 +425,7 @@
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio | TypeScript | 0 | 2026-04-14 | 5 | 1 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | Jupyter Notebook | 0 | 2026-04-14 | 2 | 1 |
 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | Assembly | 0 | 2026-04-15 | 2 | 1 |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 5 | 2 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 6 | 2 |
 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | 0 | 2026-04-16 | 4 | 2 |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | TypeScript | 0 | 2026-04-16 | 3 | 2 |
 | [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 3 | 1 |
@@ -507,17 +507,22 @@
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | Python | 0 | 2026-05-06 | 1 | 1 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Shell | 0 | 2026-05-07 | 5 | 1 |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) |  | Python | 0 | 2026-05-07 | 5 | 1 |
-| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 4 | 1 |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 2 | 1 |
+| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 5 | 1 |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 3 | 1 |
 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | "AI-Trader: 100% Fully-Automated Agent-Native Trading" | Python | 0 | 2026-05-09 | 2 | 1 |
 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | Python | 0 | 2026-05-09 | 1 | 1 |
 | [flutter/skills](https://github.com/flutter/skills) |  | Dart | 0 | 2026-05-09 | 1 | 1 |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 Your first modern Coding course for beginners to master step by step. | JavaScript | 0 | 2026-05-10 | 2 | 1 |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | TypeScript | 0 | 2026-05-10 | 2 | 1 |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 0 | 2026-05-10 | 1 | 1 |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 Your first modern Coding course for beginners to master step by step. | JavaScript | 0 | 2026-05-10 | 3 | 1 |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | TypeScript | 0 | 2026-05-10 | 3 | 1 |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 0 | 2026-05-10 | 2 | 1 |
 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | Go | 0 | 2026-05-10 | 1 | 1 |
 | [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) | Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services | Jupyter Notebook | 0 | 2026-05-10 | 1 | 1 |
 | [jundot/omlx](https://github.com/jundot/omlx) | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | Python | 0 | 2026-05-11 | 1 | 1 |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | TypeScript | 0 | 2026-05-12 | 1 | 1 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 1 | 1 |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | Your agent writes bad React. This catches it | TypeScript | 0 | 2026-05-12 | 1 | 1 |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | Python | 0 | 2026-05-12 | 1 | 1 |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | 0 | 2026-05-12 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -528,4 +533,4 @@
 | 2026-02 | 122 |
 | 2026-03 | 96 |
 | 2026-04 | 100 |
-| 2026-05 | 27 |
+| 2026-05 | 32 |
