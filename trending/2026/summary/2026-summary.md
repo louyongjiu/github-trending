@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/14/2026
+> Summary Date: 5/15/2026
 
 ## Statistics Overview
 
-- Total Repositories: 522
+- Total Repositories: 526
 - Summary Year: 2026
 
 ## Repository List
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 49 | 5 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 50 | 5 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 0 | 2026-01-10 | 9 | 3 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -304,7 +304,7 @@
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 7 | 2 |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 4 | 1 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 10 | 2 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 11 | 3 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 13 | 2 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 4 | 1 |
@@ -414,7 +414,7 @@
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | "DeepTutor: Agent-Native Personalized Learning Assistant" | Python | 0 | 2026-04-08 | 4 | 1 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ | Python | 0 | 2026-04-08 | 2 | 1 |
 | [goharbor/harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | Go | 0 | 2026-04-09 | 1 | 1 |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 0 | 2026-04-10 | 7 | 2 |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 0 | 2026-04-10 | 8 | 2 |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 0 | 2026-04-10 | 5 | 1 |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | TypeScript | 0 | 2026-04-11 | 4 | 1 |
 | [jqlang/jq](https://github.com/jqlang/jq) | Command-line JSON processor | C | 0 | 2026-04-11 | 1 | 1 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | 0 | 2026-04-26 | 9 | 2 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | 0 | 2026-04-26 | 10 | 2 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -508,31 +508,35 @@
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | Shell | 0 | 2026-05-07 | 5 | 1 |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) |  | Python | 0 | 2026-05-07 | 5 | 1 |
 | [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 5 | 1 |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 5 | 1 |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 6 | 1 |
 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | "AI-Trader: 100% Fully-Automated Agent-Native Trading" | Python | 0 | 2026-05-09 | 3 | 1 |
 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents | Python | 0 | 2026-05-09 | 1 | 1 |
 | [flutter/skills](https://github.com/flutter/skills) |  | Dart | 0 | 2026-05-09 | 1 | 1 |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 0 | 2026-05-10 | 4 | 1 |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 0 | 2026-05-10 | 5 | 1 |
 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 💻 vibe coding 2026 Your first modern Coding course for beginners to master step by step. | JavaScript | 0 | 2026-05-10 | 3 | 1 |
 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 3D Gaussian Splat Editor | TypeScript | 0 | 2026-05-10 | 3 | 1 |
 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | Go | 0 | 2026-05-10 | 1 | 1 |
 | [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) | Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services | Jupyter Notebook | 0 | 2026-05-10 | 1 | 1 |
 | [jundot/omlx](https://github.com/jundot/omlx) | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | Python | 0 | 2026-05-11 | 1 | 1 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 4 | 1 |
 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | TypeScript | 0 | 2026-05-12 | 3 | 1 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 3 | 1 |
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | Your agent writes bad React. This catches it | TypeScript | 0 | 2026-05-12 | 3 | 1 |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | 0 | 2026-05-12 | 3 | 1 |
 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | Python | 0 | 2026-05-12 | 1 | 1 |
 | [apernet/hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | 0 | 2026-05-13 | 2 | 1 |
 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control | Java | 0 | 2026-05-13 | 1 | 1 |
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | Go | 0 | 2026-05-14 | 1 | 1 |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 1 | 1 |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 0 | 2026-05-14 | 1 | 1 |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | Go | 0 | 2026-05-14 | 2 | 1 |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 2 | 1 |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 0 | 2026-05-14 | 2 | 1 |
+| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | Python | 0 | 2026-05-14 | 2 | 1 |
 | [Greedeks/GTweak](https://github.com/Greedeks/GTweak) | Portable Tool for an Ideal Windows Setup | C# | 0 | 2026-05-14 | 1 | 1 |
 | [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) | 3D Reconstruction for all | Rust | 0 | 2026-05-14 | 1 | 1 |
 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. |  | 0 | 2026-05-14 | 1 | 1 |
 | [ton-blockchain/acton](https://github.com/ton-blockchain/acton) | Toolchain for TON smart contract development and beyond | Rust | 0 | 2026-05-14 | 1 | 1 |
-| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | Python | 0 | 2026-05-14 | 1 | 1 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 | Python | 0 | 2026-05-15 | 1 | 1 |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 0 | 2026-05-15 | 1 | 1 |
+| [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. | Python | 0 | 2026-05-15 | 1 | 1 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | 0 | 2026-05-15 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -543,4 +547,4 @@
 | 2026-02 | 122 |
 | 2026-03 | 96 |
 | 2026-04 | 100 |
-| 2026-05 | 42 |
+| 2026-05 | 46 |
