@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/16/2026
+> Summary Date: 5/17/2026
 
 ## Statistics Overview
 
-- Total Repositories: 529
+- Total Repositories: 530
 - Summary Year: 2026
 
 ## Repository List
@@ -72,7 +72,7 @@
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 7973 | 2026-01-09 | 1 | 1 |
 | [NVlabs/alpasim](https://github.com/NVlabs/alpasim) |  | Python | 44 | 2026-01-09 | 1 | 1 |
 | [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG) | [KDD'2026] "VideoRAG: Chat with Your Videos" | Python | 293 | 2026-01-09 | 1 | 1 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 51 | 5 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Shell | 0 | 2026-01-10 | 52 | 5 |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | TypeScript | 0 | 2026-01-10 | 9 | 3 |
 | [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ | TypeScript | 779 | 2026-01-10 | 3 | 1 |
 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | Go | 1075 | 2026-01-10 | 2 | 2 |
@@ -304,7 +304,7 @@
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 0 | 2026-03-02 | 7 | 2 |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-03-02 | 4 | 1 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 12 | 3 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 13 | 3 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 0 | 2026-03-04 | 13 | 2 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 4 | 1 |
@@ -461,7 +461,7 @@
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | TypeScript | 0 | 2026-04-23 | 1 | 1 |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or discord like openclaw | Python | 0 | 2026-04-24 | 6 | 1 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 0 | 2026-04-24 | 3 | 1 |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 2 | 1 |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 3 | 2 |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms | TypeScript | 0 | 2026-04-24 | 2 | 2 |
 | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 0 | 2026-04-24 | 1 | 1 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 0 | 2026-04-24 | 1 | 1 |
@@ -518,16 +518,16 @@
 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | Go | 0 | 2026-05-10 | 1 | 1 |
 | [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) | Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services | Jupyter Notebook | 0 | 2026-05-10 | 1 | 1 |
 | [jundot/omlx](https://github.com/jundot/omlx) | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | Python | 0 | 2026-05-11 | 1 | 1 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 5 | 1 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 6 | 1 |
 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | TypeScript | 0 | 2026-05-12 | 3 | 1 |
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | Your agent writes bad React. This catches it | TypeScript | 0 | 2026-05-12 | 3 | 1 |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | 0 | 2026-05-12 | 3 | 1 |
 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | Python | 0 | 2026-05-12 | 1 | 1 |
 | [apernet/hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | 0 | 2026-05-13 | 2 | 1 |
 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control | Java | 0 | 2026-05-13 | 1 | 1 |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 4 | 1 |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 0 | 2026-05-14 | 4 | 1 |
 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | Go | 0 | 2026-05-14 | 3 | 1 |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 3 | 1 |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 0 | 2026-05-14 | 3 | 1 |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | Python | 0 | 2026-05-14 | 2 | 1 |
 | [Greedeks/GTweak](https://github.com/Greedeks/GTweak) | Portable Tool for an Ideal Windows Setup | C# | 0 | 2026-05-14 | 1 | 1 |
 | [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) | 3D Reconstruction for all | Rust | 0 | 2026-05-14 | 1 | 1 |
@@ -537,9 +537,10 @@
 | [roboflow/supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 | Python | 0 | 2026-05-15 | 1 | 1 |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 0 | 2026-05-15 | 1 | 1 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | 0 | 2026-05-15 | 1 | 1 |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 0 | 2026-05-16 | 2 | 1 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | 0 | 2026-05-16 | 1 | 1 |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 0 | 2026-05-16 | 1 | 1 |
 | [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. | Python | 0 | 2026-05-16 | 1 | 1 |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local | TypeScript | 0 | 2026-05-17 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -550,4 +551,4 @@
 | 2026-02 | 122 |
 | 2026-03 | 96 |
 | 2026-04 | 100 |
-| 2026-05 | 49 |
+| 2026-05 | 50 |
