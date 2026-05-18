@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 5/17/2026
+> Summary Date: 5/18/2026
 
 ## Statistics Overview
 
-- Total Repositories: 530
+- Total Repositories: 541
 - Summary Year: 2026
 
 ## Repository List
@@ -207,7 +207,7 @@
 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | Rust | 2216 | 2026-02-06 | 1 | 1 |
 | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 一款提示词优化器，助力于编写高质量的提示词 | TypeScript | 2406 | 2026-02-06 | 1 | 1 |
 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering | Jupyter Notebook | 7621 | 2026-02-07 | 1 | 1 |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. | TypeScript | 0 | 2026-02-08 | 8 | 3 |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. | TypeScript | 0 | 2026-02-08 | 9 | 4 |
 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 0 | 2026-02-08 | 7 | 2 |
 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | Rust | 822 | 2026-02-08 | 4 | 1 |
 | [microsoft/litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution | Rust | 74 | 2026-02-08 | 3 | 1 |
@@ -450,8 +450,8 @@
 | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | Shell | 0 | 2026-04-21 | 1 | 1 |
 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. | Go | 0 | 2026-04-21 | 1 | 1 |
 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. | TypeScript | 0 | 2026-04-22 | 4 | 1 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 12 Lessons to Get Started Building AI Agents | Jupyter Notebook | 0 | 2026-04-22 | 3 | 2 |
 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" | Python | 0 | 2026-04-22 | 3 | 1 |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 12 Lessons to Get Started Building AI Agents | Jupyter Notebook | 0 | 2026-04-22 | 2 | 1 |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. |  | 0 | 2026-04-22 | 2 | 1 |
 | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | A flexible enhancer for YouTube on iOS | Logos | 0 | 2026-04-22 | 1 | 1 |
 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | Python | 0 | 2026-04-23 | 6 | 1 |
@@ -460,8 +460,8 @@
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 | TypeScript | 0 | 2026-04-23 | 1 | 1 |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | TypeScript | 0 | 2026-04-23 | 1 | 1 |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude-code for free in the terminal, VSCode extension or discord like openclaw | Python | 0 | 2026-04-24 | 6 | 1 |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 4 | 2 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 0 | 2026-04-24 | 3 | 1 |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 3 | 2 |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms | TypeScript | 0 | 2026-04-24 | 2 | 2 |
 | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator | C++ | 0 | 2026-04-24 | 1 | 1 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 0 | 2026-04-24 | 1 | 1 |
@@ -518,14 +518,14 @@
 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | Go | 0 | 2026-05-10 | 1 | 1 |
 | [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) | Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services | Jupyter Notebook | 0 | 2026-05-10 | 1 | 1 |
 | [jundot/omlx](https://github.com/jundot/omlx) | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | Python | 0 | 2026-05-11 | 1 | 1 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 6 | 1 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 0 | 2026-05-12 | 7 | 1 |
 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | TypeScript | 0 | 2026-05-12 | 3 | 1 |
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | Your agent writes bad React. This catches it | TypeScript | 0 | 2026-05-12 | 3 | 1 |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | 0 | 2026-05-12 | 3 | 1 |
 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI | Python | 0 | 2026-05-12 | 1 | 1 |
 | [apernet/hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | 0 | 2026-05-13 | 2 | 1 |
 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control | Java | 0 | 2026-05-13 | 1 | 1 |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 4 | 1 |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. | Python | 0 | 2026-05-14 | 5 | 1 |
 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 0 | 2026-05-14 | 4 | 1 |
 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | Go | 0 | 2026-05-14 | 3 | 1 |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | Python | 0 | 2026-05-14 | 2 | 1 |
@@ -537,10 +537,21 @@
 | [roboflow/supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 | Python | 0 | 2026-05-15 | 1 | 1 |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 0 | 2026-05-15 | 1 | 1 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | 0 | 2026-05-15 | 1 | 1 |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 0 | 2026-05-16 | 2 | 1 |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 0 | 2026-05-16 | 3 | 1 |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | 0 | 2026-05-16 | 1 | 1 |
 | [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. | Python | 0 | 2026-05-16 | 1 | 1 |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local | TypeScript | 0 | 2026-05-17 | 1 | 1 |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local | TypeScript | 0 | 2026-05-17 | 2 | 1 |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | Python | 0 | 2026-05-18 | 1 | 1 |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. | TypeScript | 0 | 2026-05-18 | 1 | 1 |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. | Python | 0 | 2026-05-18 | 1 | 1 |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. | TypeScript | 0 | 2026-05-18 | 1 | 1 |
+| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. | Jupyter Notebook | 0 | 2026-05-18 | 1 | 1 |
+| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | Open Source Voice Agent Platform | Python | 0 | 2026-05-18 | 1 | 1 |
+| [Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer) | Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions. | Python | 0 | 2026-05-18 | 1 | 1 |
+| [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | Independent technology for modern publishing, memberships, subscriptions and newsletters. | JavaScript | 0 | 2026-05-18 | 1 | 1 |
+| [medusajs/medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform. | TypeScript | 0 | 2026-05-18 | 1 | 1 |
+| [knadh/listmonk](https://github.com/knadh/listmonk) | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. | Go | 0 | 2026-05-18 | 1 | 1 |
+| [plausible/analytics](https://github.com/plausible/analytics) | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. | Elixir | 0 | 2026-05-18 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -551,4 +562,4 @@
 | 2026-02 | 122 |
 | 2026-03 | 96 |
 | 2026-04 | 100 |
-| 2026-05 | 50 |
+| 2026-05 | 61 |
