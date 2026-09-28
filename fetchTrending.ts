@@ -35,7 +35,7 @@ function writeDailyMarkdown(content: string, date: string): void {
 async function fetchTrendingRepos() {
   try {
     const response = await axios.get<Repo[]>(
-      "https://github-api.nines.world/trending",
+      "https://github-api.nines.cloud/trending",
       { timeout: 15000 }
     );
     const data = response.data;
