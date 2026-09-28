@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 9/27/2026
+> Summary Date: 9/28/2026
 
 ## Statistics Overview
 
-- Total Repositories: 570
+- Total Repositories: 577
 - Summary Year: 2026
 
 ## Repository List
@@ -340,7 +340,7 @@
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 0 | 2026-03-12 | 2 | 1 |
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. | TypeScript | 0 | 2026-03-13 | 6 | 2 |
 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. | Python | 0 | 2026-03-13 | 3 | 1 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 0 | 2026-03-13 | 2 | 1 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 39163 | 2026-03-13 | 3 | 2 |
 | [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization | C++ | 0 | 2026-03-13 | 2 | 1 |
 | [google/A2UI](https://github.com/google/A2UI) |  | TypeScript | 0 | 2026-03-13 | 2 | 1 |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | Zig | 0 | 2026-03-14 | 4 | 1 |
@@ -560,7 +560,7 @@
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | Rust | 0 | 2026-05-20 | 1 | 1 |
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users | CSS | 0 | 2026-05-20 | 1 | 1 |
 | [frappe/erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | Python | 0 | 2026-05-20 | 1 | 1 |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn it. Build it. Ship it for others. | Python | 0 | 2026-05-21 | 5 | 1 |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Learn it. Build it. Ship it for others. | Python | 59917 | 2026-05-21 | 6 | 2 |
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more | TypeScript | 0 | 2026-05-21 | 3 | 1 |
 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Free, Open Source, Self-Hosted WhatsApp API Gateway | TypeScript | 0 | 2026-05-21 | 2 | 1 |
 | [truelockmc/streambert](https://github.com/truelockmc/streambert) | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking | JavaScript | 0 | 2026-05-21 | 2 | 1 |
@@ -581,6 +581,13 @@
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 0 | 2026-05-25 | 1 | 1 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods | TypeScript | 0 | 2026-05-25 | 1 | 1 |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents | Swift | 0 | 2026-05-25 | 1 | 1 |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 91259 | 2026-09-28 | 1 | 1 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 41259 | 2026-09-28 | 1 | 1 |
+| [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube and other services freely. | Shell | 6744 | 2026-09-28 | 1 | 1 |
+| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | TypeScript-to-Native Compiler | TypeScript | 5550 | 2026-09-28 | 1 | 1 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Multi-agent harness that runs Claude Code and Codex together as one system | TypeScript | 1275 | 2026-09-28 | 1 | 1 |
+| [dream-num/univer](https://github.com/dream-num/univer) | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | TypeScript | 20871 | 2026-09-28 | 1 | 1 |
+| [willfaust/Madeira](https://github.com/willfaust/Madeira) | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT | C | 915 | 2026-09-28 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -592,3 +599,4 @@
 | 2026-03 | 96 |
 | 2026-04 | 100 |
 | 2026-05 | 90 |
+| 2026-09 | 7 |
