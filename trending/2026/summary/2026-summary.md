@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 9/28/2026
+> Summary Date: 9/29/2026
 
 ## Statistics Overview
 
-- Total Repositories: 577
+- Total Repositories: 580
 - Summary Year: 2026
 
 ## Repository List
@@ -339,8 +339,8 @@
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | Python | 0 | 2026-03-12 | 4 | 1 |
 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 0 | 2026-03-12 | 2 | 1 |
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. | TypeScript | 0 | 2026-03-13 | 6 | 2 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 41400 | 2026-03-13 | 4 | 2 |
 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. | Python | 0 | 2026-03-13 | 3 | 1 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | Python | 39163 | 2026-03-13 | 3 | 2 |
 | [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization | C++ | 0 | 2026-03-13 | 2 | 1 |
 | [google/A2UI](https://github.com/google/A2UI) |  | TypeScript | 0 | 2026-03-13 | 2 | 1 |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Lightpanda: the headless browser designed for AI and automation | Zig | 0 | 2026-03-14 | 4 | 1 |
@@ -581,13 +581,16 @@
 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 0 | 2026-05-25 | 1 | 1 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods | TypeScript | 0 | 2026-05-25 | 1 | 1 |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents | Swift | 0 | 2026-05-25 | 1 | 1 |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 91259 | 2026-09-28 | 1 | 1 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 41259 | 2026-09-28 | 1 | 1 |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 93247 | 2026-09-28 | 2 | 1 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 44909 | 2026-09-28 | 2 | 1 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Multi-agent harness that runs Claude Code and Codex together as one system | TypeScript | 1873 | 2026-09-28 | 2 | 1 |
+| [dream-num/univer](https://github.com/dream-num/univer) | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | TypeScript | 21411 | 2026-09-28 | 2 | 1 |
 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube and other services freely. | Shell | 6744 | 2026-09-28 | 1 | 1 |
 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | TypeScript-to-Native Compiler | TypeScript | 5550 | 2026-09-28 | 1 | 1 |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Multi-agent harness that runs Claude Code and Codex together as one system | TypeScript | 1275 | 2026-09-28 | 1 | 1 |
-| [dream-num/univer](https://github.com/dream-num/univer) | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | TypeScript | 20871 | 2026-09-28 | 1 | 1 |
 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT | C | 915 | 2026-09-28 | 1 | 1 |
+| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system | PLSQL | 25851 | 2026-09-29 | 1 | 1 |
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | Open Source Introductory Systems Programming Textbook for the University of Illinois | TeX | 2615 | 2026-09-29 | 1 | 1 |
+| [byoungd/up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 | JavaScript | 64950 | 2026-09-29 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -599,4 +602,4 @@
 | 2026-03 | 96 |
 | 2026-04 | 100 |
 | 2026-05 | 90 |
-| 2026-09 | 7 |
+| 2026-09 | 10 |
