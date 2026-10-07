@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 10/6/2026
+> Summary Date: 10/7/2026
 
 ## Statistics Overview
 
-- Total Repositories: 611
+- Total Repositories: 614
 - Summary Year: 2026
 
 ## Repository List
@@ -56,7 +56,7 @@
 | [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | Kiro is an agentic IDE that works alongside you from prototype to production. |  | 121 | 2026-01-07 | 1 | 1 |
 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. | Python | 1531 | 2026-01-07 | 1 | 1 |
 | [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | Free Introduction to Bash Scripting eBook | HTML | 574 | 2026-01-07 | 1 | 1 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | TypeScript | 96727 | 2026-01-08 | 17 | 5 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | TypeScript | 97278 | 2026-01-08 | 18 | 5 |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 0 | 2026-01-08 | 14 | 4 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 10663 | 2026-01-08 | 4 | 1 |
 | [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. | Python | 269 | 2026-01-08 | 4 | 1 |
@@ -306,7 +306,7 @@
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | Shell | 0 | 2026-03-02 | 1 | 1 |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | Rust | 0 | 2026-03-03 | 15 | 3 |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | Rust | 0 | 2026-03-03 | 1 | 1 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 157391 | 2026-03-04 | 17 | 3 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | Shell | 157957 | 2026-03-04 | 18 | 3 |
 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Build and run agents you can see, understand and trust. | Python | 0 | 2026-03-04 | 4 | 1 |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | TypeScript | 0 | 2026-03-04 | 3 | 1 |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. | Python | 0 | 2026-03-04 | 2 | 1 |
@@ -328,7 +328,7 @@
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. | TypeScript | 0 | 2026-03-08 | 2 | 1 |
 | [agentjido/jido](https://github.com/agentjido/jido) | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. | Elixir | 0 | 2026-03-08 | 1 | 1 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | JavaScript | 76461 | 2026-03-09 | 7 | 2 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | JavaScript | 77835 | 2026-03-09 | 8 | 2 |
 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. | Python | 0 | 2026-03-09 | 3 | 2 |
 | [is-a-dev/register](https://github.com/is-a-dev/register) | Grab your own sweet-looking '.is-a.dev' subdomain. | JavaScript | 0 | 2026-03-09 | 1 | 1 |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 | Python | 0 | 2026-03-10 | 1 | 1 |
@@ -440,8 +440,8 @@
 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) |  | TypeScript | 0 | 2026-04-18 | 3 | 2 |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Build your own AI SRE agents. The open source toolkit for the AI era ✨ | Python | 0 | 2026-04-18 | 1 | 1 |
 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. | TypeScript | 0 | 2026-04-19 | 4 | 1 |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | DeepGEMM: clean and efficient BLAS kernel library on GPU | Cuda | 8777 | 2026-04-19 | 3 | 2 |
 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | Enterprise Architecture Governance & Vendor Procurement Toolkit | HTML | 0 | 2026-04-19 | 3 | 1 |
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling | Cuda | 0 | 2026-04-19 | 2 | 1 |
 | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Claude Desktop for Debian-based Linux distributions | Shell | 0 | 2026-04-19 | 1 | 1 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 0 | 2026-04-19 | 1 | 1 |
 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. | Python | 0 | 2026-04-20 | 6 | 2 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 275476 | 2026-04-26 | 15 | 3 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 278391 | 2026-04-26 | 16 | 3 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -613,15 +613,18 @@
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 92292 | 2026-10-04 | 2 | 1 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | 272384 | 2026-10-04 | 1 | 1 |
 | [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) |  | Python | 8821 | 2026-10-04 | 1 | 1 |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | Next generation e2e testing framework for web and mobile apps. | TypeScript | 5116 | 2026-10-05 | 2 | 1 |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Give your agent CAD superpowers. | Python | 17545 | 2026-10-05 | 2 | 1 |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | Next generation e2e testing framework for web and mobile apps. | TypeScript | 6571 | 2026-10-05 | 3 | 1 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Give your agent CAD superpowers. | Python | 18089 | 2026-10-05 | 3 | 1 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. | Python | 64218 | 2026-10-05 | 2 | 1 |
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | Go | 77243 | 2026-10-05 | 2 | 1 |
 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. | JavaScript | 1481 | 2026-10-05 | 2 | 1 |
 | [antirez/ds4](https://github.com/antirez/ds4) | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm | C | 23487 | 2026-10-05 | 1 | 1 |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | C++ | 5117 | 2026-10-06 | 1 | 1 |
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. | JavaScript | 4490 | 2026-10-06 | 1 | 1 |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | C++ | 6946 | 2026-10-06 | 2 | 1 |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. | JavaScript | 5963 | 2026-10-06 | 2 | 1 |
 | [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share | C++ | 1485 | 2026-10-06 | 1 | 1 |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | Python | 54521 | 2026-10-07 | 1 | 1 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 10333 | 2026-10-07 | 1 | 1 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 44189 | 2026-10-07 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -634,4 +637,4 @@
 | 2026-04 | 100 |
 | 2026-05 | 90 |
 | 2026-09 | 15 |
-| 2026-10 | 26 |
+| 2026-10 | 29 |
