@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 10/9/2026
+> Summary Date: 10/10/2026
 
 ## Statistics Overview
 
-- Total Repositories: 618
+- Total Repositories: 621
 - Summary Year: 2026
 
 ## Repository List
@@ -378,7 +378,7 @@
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! | Python | 0 | 2026-03-24 | 1 | 1 |
 | [pascalorg/editor](https://github.com/pascalorg/editor) | Create and share 3D architectural projects. | TypeScript | 0 | 2026-03-25 | 5 | 3 |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Python | 0 | 2026-03-25 | 5 | 1 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] | Python | 0 | 2026-03-26 | 1 | 1 |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] | Python | 60765 | 2026-03-26 | 2 | 2 |
 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | Give Claude Code a subconscious | TypeScript | 0 | 2026-03-26 | 1 | 1 |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI hackers to find and fix your app’s vulnerabilities. | Python | 0 | 2026-03-26 | 1 | 1 |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 0 | 2026-03-27 | 4 | 2 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 281439 | 2026-04-26 | 18 | 3 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 283074 | 2026-04-26 | 19 | 3 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -505,7 +505,7 @@
 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ | Python | 0 | 2026-05-06 | 3 | 1 |
 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | VSCode theme based off the easemate IDE and Jetbrains islands theme | PowerShell | 0 | 2026-05-06 | 2 | 1 |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | A collection of projects showcasing RAG, agents, workflows, and other AI use cases | Python | 0 | 2026-05-06 | 1 | 1 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | JavaScript | 102974 | 2026-05-07 | 8 | 2 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | JavaScript | 104140 | 2026-05-07 | 9 | 2 |
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) |  | Python | 0 | 2026-05-07 | 5 | 1 |
 | [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 0 | 2026-05-08 | 5 | 1 |
 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. | Python | 0 | 2026-05-09 | 8 | 1 |
@@ -578,8 +578,8 @@
 | [presenton/presenton](https://github.com/presenton/presenton) | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) | TypeScript | 0 | 2026-05-24 | 1 | 1 |
 | [NVlabs/LongLive](https://github.com/NVlabs/LongLive) | LongLive 2.0: Infra - Long Video Gen | Python | 0 | 2026-05-24 | 1 | 1 |
 | [janestreet/magic-trace](https://github.com/janestreet/magic-trace) | magic-trace collects and displays high-resolution traces of what a process is doing | OCaml | 0 | 2026-05-24 | 1 | 1 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 28386 | 2026-05-25 | 3 | 2 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | 112226 | 2026-05-25 | 3 | 2 |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork | Python | 27803 | 2026-05-25 | 2 | 2 |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | Swift | 27930 | 2026-05-25 | 2 | 2 |
 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | TypeScript | 4423 | 2026-09-28 | 6 | 2 |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 50684 | 2026-09-28 | 4 | 2 |
@@ -619,16 +619,19 @@
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | Go | 77243 | 2026-10-05 | 2 | 1 |
 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. | JavaScript | 1481 | 2026-10-05 | 2 | 1 |
 | [antirez/ds4](https://github.com/antirez/ds4) | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm | C | 23487 | 2026-10-05 | 1 | 1 |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | C++ | 16768 | 2026-10-06 | 4 | 1 |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | C++ | 23124 | 2026-10-06 | 5 | 1 |
 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. | JavaScript | 7266 | 2026-10-06 | 3 | 1 |
 | [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share | C++ | 1485 | 2026-10-06 | 1 | 1 |
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 30180 | 2026-10-07 | 3 | 1 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 46754 | 2026-10-07 | 3 | 1 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 52320 | 2026-10-07 | 4 | 1 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 48132 | 2026-10-07 | 4 | 1 |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | Python | 55333 | 2026-10-07 | 2 | 1 |
 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. | C | 8168 | 2026-10-08 | 2 | 1 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 26207 | 2026-10-08 | 1 | 1 |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 8709 | 2026-10-09 | 1 | 1 |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 12062 | 2026-10-09 | 2 | 1 |
 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Notes of the book System Desgin Interview - An Insider's Guide |  | 24872 | 2026-10-09 | 1 | 1 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | Go | 45445 | 2026-10-10 | 1 | 1 |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction | Python | 17791 | 2026-10-10 | 1 | 1 |
+| [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | SwiftUI agent skill for Claude Code, Codex, and other AI tools. |  | 5555 | 2026-10-10 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -641,4 +644,4 @@
 | 2026-04 | 100 |
 | 2026-05 | 90 |
 | 2026-09 | 15 |
-| 2026-10 | 33 |
+| 2026-10 | 36 |
