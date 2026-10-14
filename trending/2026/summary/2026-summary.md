@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 10/13/2026
+> Summary Date: 10/14/2026
 
 ## Statistics Overview
 
-- Total Repositories: 628
+- Total Repositories: 629
 - Summary Year: 2026
 
 ## Repository List
@@ -141,8 +141,8 @@
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. | TypeScript | 1450 | 2026-01-23 | 1 | 1 |
 | [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | Download videos from almost any website worldwide | TypeScript | 338 | 2026-01-23 | 1 | 1 |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | Python | 0 | 2026-01-24 | 4 | 2 |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | AirLLM 2.8T LLM inference with single 4GB GPU | Jupyter Notebook | 38438 | 2026-01-24 | 4 | 2 |
 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines | Python | 293 | 2026-01-24 | 3 | 1 |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | AirLLM 2.8T LLM inference with single 4GB GPU | Jupyter Notebook | 37749 | 2026-01-24 | 3 | 2 |
 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | A Datacenter Scale Distributed Inference Serving Framework | Rust | 808 | 2026-01-24 | 1 | 1 |
 | [github/copilot-cli](https://github.com/github/copilot-cli) | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. | Shell | 957 | 2026-01-24 | 1 | 1 |
 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw | Python | 10790 | 2026-01-24 | 1 | 1 |
@@ -457,10 +457,10 @@
 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | Python | 0 | 2026-04-23 | 6 | 1 |
 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. | TypeScript | 0 | 2026-04-23 | 3 | 1 |
 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🚀 AI 全自动短视频引擎 AI Fully Automated Short Video Engine | Python | 0 | 2026-04-23 | 3 | 2 |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | TypeScript | 34661 | 2026-04-23 | 2 | 2 |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 | TypeScript | 0 | 2026-04-23 | 1 | 1 |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | TypeScript | 0 | 2026-04-23 | 1 | 1 |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) | Python | 59492 | 2026-04-24 | 9 | 3 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. | TypeScript | 27539 | 2026-04-24 | 8 | 3 |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. | TypeScript | 28403 | 2026-04-24 | 9 | 3 |
 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. | JavaScript | 0 | 2026-04-24 | 4 | 2 |
 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models | Python | 0 | 2026-04-24 | 3 | 1 |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | JavaScript | 53176 | 2026-04-24 | 3 | 2 |
@@ -582,7 +582,7 @@
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | 112226 | 2026-05-25 | 3 | 2 |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | Swift | 27930 | 2026-05-25 | 2 | 2 |
 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | TypeScript | 4423 | 2026-09-28 | 6 | 2 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 50684 | 2026-09-28 | 4 | 2 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 63887 | 2026-09-28 | 5 | 2 |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 94699 | 2026-09-28 | 3 | 1 |
 | [dream-num/univer](https://github.com/dream-num/univer) | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | TypeScript | 21955 | 2026-09-28 | 3 | 1 |
 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT | C | 1134 | 2026-09-28 | 2 | 1 |
@@ -622,12 +622,12 @@
 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | Tool for automatic PS5 executables porting to Linux and Windows | C++ | 30742 | 2026-10-06 | 7 | 1 |
 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. | JavaScript | 7266 | 2026-10-06 | 3 | 1 |
 | [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) | Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share | C++ | 1485 | 2026-10-06 | 1 | 1 |
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 172998 | 2026-10-07 | 7 | 1 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 53041 | 2026-10-07 | 7 | 1 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 214689 | 2026-10-07 | 8 | 1 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 54462 | 2026-10-07 | 8 | 1 |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | Python | 55333 | 2026-10-07 | 2 | 1 |
 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. | C | 8168 | 2026-10-08 | 2 | 1 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 26207 | 2026-10-08 | 1 | 1 |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 23036 | 2026-10-09 | 5 | 1 |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 26175 | 2026-10-09 | 6 | 1 |
 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Notes of the book System Desgin Interview - An Insider's Guide |  | 24872 | 2026-10-09 | 1 | 1 |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | Go | 45445 | 2026-10-10 | 1 | 1 |
 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction | Python | 17791 | 2026-10-10 | 1 | 1 |
@@ -637,8 +637,9 @@
 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone | C++ | 200772 | 2026-10-11 | 1 | 1 |
 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He | Python | 59682 | 2026-10-11 | 1 | 1 |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. | Python | 167352 | 2026-10-11 | 1 | 1 |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | JavaScript | 54133 | 2026-10-12 | 2 | 1 |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | JavaScript | 55692 | 2026-10-12 | 3 | 1 |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | Python | 155304 | 2026-10-13 | 1 | 1 |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. | Swift | 9638 | 2026-10-14 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -651,4 +652,4 @@
 | 2026-04 | 100 |
 | 2026-05 | 90 |
 | 2026-09 | 15 |
-| 2026-10 | 43 |
+| 2026-10 | 44 |
