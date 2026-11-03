@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 11/2/2026
+> Summary Date: 11/3/2026
 
 ## Statistics Overview
 
-- Total Repositories: 686
+- Total Repositories: 689
 - Summary Year: 2026
 
 ## Repository List
@@ -56,7 +56,7 @@
 | [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | Kiro is an agentic IDE that works alongside you from prototype to production. |  | 121 | 2026-01-07 | 1 | 1 |
 | [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. | Python | 1531 | 2026-01-07 | 1 | 1 |
 | [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | Free Introduction to Bash Scripting eBook | HTML | 574 | 2026-01-07 | 1 | 1 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | TypeScript | 109693 | 2026-01-08 | 24 | 6 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | TypeScript | 111031 | 2026-01-08 | 25 | 6 |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | 0 | 2026-01-08 | 14 | 4 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | C++ | 10663 | 2026-01-08 | 4 | 1 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | Jupyter Notebook | 40502 | 2026-01-08 | 4 | 3 |
@@ -186,7 +186,7 @@
 | [j178/prek](https://github.com/j178/prek) | ⚡ Better `pre-commit`, re-engineered in Rust | Rust | 147 | 2026-02-02 | 2 | 1 |
 | [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) | Turn any browser into your terminal & command your agents on the go. | TypeScript | 234 | 2026-02-02 | 1 | 1 |
 | [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) | [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling | Python | 136 | 2026-02-02 | 1 | 1 |
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | Python | 0 | 2026-02-03 | 4 | 2 |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | The best ChatGPT that $100 can buy. | Python | 60028 | 2026-02-03 | 5 | 3 |
 | [autobrr/qui](https://github.com/autobrr/qui) | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. | Go | 77 | 2026-02-03 | 1 | 1 |
 | [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) |  | Jupyter Notebook | 1791 | 2026-02-03 | 1 | 1 |
 | [openai/skills](https://github.com/openai/skills) | Skills Catalog for Codex | Python | 0 | 2026-02-04 | 10 | 2 |
@@ -208,7 +208,7 @@
 | [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 一款提示词优化器，助力于编写高质量的提示词 | TypeScript | 2406 | 2026-02-06 | 1 | 1 |
 | [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering | Jupyter Notebook | 7621 | 2026-02-07 | 1 | 1 |
 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. | TypeScript | 0 | 2026-02-08 | 9 | 4 |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Fully automatic censorship removal for language models | Python | 0 | 2026-02-08 | 7 | 2 |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more | Python | 38260 | 2026-02-08 | 8 | 3 |
 | [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | Rust | 822 | 2026-02-08 | 4 | 1 |
 | [microsoft/litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution | Rust | 74 | 2026-02-08 | 3 | 1 |
 | [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone | Python | 1793 | 2026-02-08 | 2 | 1 |
@@ -277,7 +277,7 @@
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely | TypeScript | 0 | 2026-02-24 | 2 | 1 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model | Jupyter Notebook | 72523 | 2026-02-24 | 1 | 1 |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 98352 | 2026-02-24 | 1 | 1 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! | Python | 0 | 2026-02-25 | 6 | 2 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev | Python | 93314 | 2026-02-25 | 7 | 3 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 16496 | 2026-02-25 | 5 | 4 |
 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. | Rust | 0 | 2026-02-25 | 4 | 1 |
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
@@ -414,7 +414,7 @@
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Python | 53046 | 2026-04-08 | 9 | 3 |
 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ | Python | 0 | 2026-04-08 | 2 | 1 |
 | [goharbor/harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | Go | 0 | 2026-04-09 | 1 | 1 |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 45548 | 2026-04-10 | 13 | 4 |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | Python | 46105 | 2026-04-10 | 14 | 4 |
 | [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | TypeScript | 0 | 2026-04-10 | 5 | 1 |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | TypeScript | 0 | 2026-04-11 | 7 | 2 |
 | [jqlang/jq](https://github.com/jqlang/jq) | Command-line JSON processor | C | 0 | 2026-04-11 | 1 | 1 |
@@ -425,8 +425,8 @@
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source voice synthesis studio | TypeScript | 0 | 2026-04-14 | 5 | 1 |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | Jupyter Notebook | 0 | 2026-04-14 | 2 | 1 |
 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | Assembly | 74378 | 2026-04-15 | 3 | 2 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | Shell | 33870 | 2026-04-16 | 7 | 3 |
 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | 0 | 2026-04-16 | 6 | 2 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | Shell | 32586 | 2026-04-16 | 6 | 3 |
 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | 0 | 2026-04-16 | 4 | 2 |
 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | An open source template for building cloud agents. | TypeScript | 0 | 2026-04-16 | 3 | 2 |
 | [google/magika](https://github.com/google/magika) | Fast and accurate AI powered file content types detection | Python | 0 | 2026-04-16 | 3 | 1 |
@@ -436,7 +436,7 @@
 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI that sees your screen, listens to your conversations and tells you what to do | Dart | 0 | 2026-04-17 | 4 | 1 |
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | Shell | 0 | 2026-04-17 | 3 | 1 |
 | [steipete/wacli](https://github.com/steipete/wacli) | WhatsApp CLI | Go | 0 | 2026-04-17 | 1 | 1 |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |  | TypeScript | 38622 | 2026-04-18 | 8 | 3 |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |  | TypeScript | 42477 | 2026-04-18 | 9 | 3 |
 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) |  | TypeScript | 0 | 2026-04-18 | 3 | 2 |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Build your own AI SRE agents. The open source toolkit for the AI era ✨ | Python | 0 | 2026-04-18 | 1 | 1 |
 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. | TypeScript | 0 | 2026-04-19 | 4 | 1 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 308598 | 2026-04-26 | 22 | 4 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 310500 | 2026-04-26 | 23 | 4 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -583,7 +583,7 @@
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | Swift | 27930 | 2026-05-25 | 2 | 2 |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | Python | 89657 | 2026-09-28 | 12 | 2 |
 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. | TypeScript | 4423 | 2026-09-28 | 6 | 2 |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 94699 | 2026-09-28 | 3 | 1 |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | TypeScript | 110562 | 2026-09-28 | 4 | 2 |
 | [dream-num/univer](https://github.com/dream-num/univer) | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. | TypeScript | 21955 | 2026-09-28 | 3 | 1 |
 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT | C | 1134 | 2026-09-28 | 2 | 1 |
 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube and other services freely. | Shell | 6744 | 2026-09-28 | 1 | 1 |
@@ -692,11 +692,14 @@
 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click | TypeScript | 42266 | 2026-11-01 | 1 | 1 |
 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions | Python | 86103 | 2026-11-01 | 1 | 1 |
 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | Swift | 32033 | 2026-11-01 | 1 | 1 |
-| [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | Python | 11890 | 2026-11-02 | 1 | 1 |
+| [kornia/kornia](https://github.com/kornia/kornia) | 🐍 Geometric Computer Vision Library for Spatial AI | Python | 12217 | 2026-11-02 | 2 | 1 |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. | Python | 16260 | 2026-11-02 | 2 | 1 |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. | C++ | 40072 | 2026-11-02 | 2 | 1 |
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. | Python | 6377 | 2026-11-02 | 1 | 1 |
 | [anomalyco/hex](https://github.com/anomalyco/hex) | Local voice dictation for mac, windows and linux | Rust | 3524 | 2026-11-02 | 1 | 1 |
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. | Python | 15558 | 2026-11-02 | 1 | 1 |
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. | C++ | 39489 | 2026-11-02 | 1 | 1 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | 10721 | 2026-11-03 | 1 | 1 |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 | C | 46748 | 2026-11-03 | 1 | 1 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | 10144 | 2026-11-03 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -710,4 +713,4 @@
 | 2026-05 | 90 |
 | 2026-09 | 15 |
 | 2026-10 | 92 |
-| 2026-11 | 9 |
+| 2026-11 | 12 |
