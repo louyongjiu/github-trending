@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 11/5/2026
+> Summary Date: 11/6/2026
 
 ## Statistics Overview
 
-- Total Repositories: 699
+- Total Repositories: 702
 - Summary Year: 2026
 
 ## Repository List
@@ -44,7 +44,7 @@
 | [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 33834 | 2026-01-05 | 2 | 1 |
 | [5rahim/seanime](https://github.com/5rahim/seanime) | Open-source media server with a web interface and desktop app for anime and manga. | Go | 137 | 2026-01-05 | 1 | 1 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | TypeScript | 152730 | 2026-01-06 | 14 | 5 |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 0 | 2026-01-06 | 12 | 3 |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 56185 | 2026-01-06 | 13 | 4 |
 | [3b1b/manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos | Python | 7041 | 2026-01-06 | 1 | 1 |
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | Python | 38219 | 2026-01-07 | 12 | 5 |
 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format | C++ | 0 | 2026-01-07 | 7 | 2 |
@@ -277,7 +277,7 @@
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely | TypeScript | 0 | 2026-02-24 | 2 | 1 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model | Jupyter Notebook | 72523 | 2026-02-24 | 1 | 1 |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 98352 | 2026-02-24 | 1 | 1 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev | Python | 96936 | 2026-02-25 | 9 | 3 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev | Python | 98282 | 2026-02-25 | 10 | 3 |
 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Useful tool to track location or mobile number | Python | 16496 | 2026-02-25 | 5 | 4 |
 | [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. | Rust | 0 | 2026-02-25 | 4 | 1 |
 | [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming | Python | 0 | 2026-02-25 | 1 | 1 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 313687 | 2026-04-26 | 25 | 4 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 315657 | 2026-04-26 | 26 | 4 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -533,7 +533,7 @@
 | [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) | 3D Reconstruction for all | Rust | 0 | 2026-05-14 | 1 | 1 |
 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. |  | 0 | 2026-05-14 | 1 | 1 |
 | [ton-blockchain/acton](https://github.com/ton-blockchain/acton) | Toolchain for TON smart contract development and beyond | Rust | 0 | 2026-05-14 | 1 | 1 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | 139484 | 2026-05-15 | 3 | 3 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | 140129 | 2026-05-15 | 4 | 3 |
 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. | Python | 0 | 2026-05-15 | 2 | 1 |
 | [roboflow/supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 | Python | 0 | 2026-05-15 | 1 | 1 |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | C | 0 | 2026-05-15 | 1 | 1 |
@@ -607,8 +607,8 @@
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | 103940 | 2026-10-03 | 5 | 1 |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. | Go | 112694 | 2026-10-03 | 3 | 1 |
 | [getsentry/sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring | Python | 45427 | 2026-10-03 | 3 | 1 |
+| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | 22502 | 2026-10-03 | 2 | 2 |
 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | Build production-ready applications in TypeScript | TypeScript | 16869 | 2026-10-03 | 2 | 1 |
-| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | 20801 | 2026-10-03 | 1 | 1 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | 291054 | 2026-10-04 | 6 | 1 |
 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. | TypeScript | 11096 | 2026-10-04 | 2 | 1 |
 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 92292 | 2026-10-04 | 2 | 1 |
@@ -697,19 +697,22 @@
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. | Python | 16260 | 2026-11-02 | 2 | 1 |
 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. | C++ | 40072 | 2026-11-02 | 2 | 1 |
 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. | Python | 6377 | 2026-11-02 | 1 | 1 |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | 15661 | 2026-11-03 | 3 | 1 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | 11178 | 2026-11-03 | 3 | 1 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Computer use CLI for AI agents | Rust | 17264 | 2026-11-03 | 4 | 1 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows | Rust | 11627 | 2026-11-03 | 4 | 1 |
 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. | C | 47377 | 2026-11-03 | 2 | 1 |
-| [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | 29803 | 2026-11-04 | 2 | 1 |
+| [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | 30575 | 2026-11-04 | 3 | 1 |
+| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Python | 17866 | 2026-11-04 | 2 | 1 |
 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) |  | TypeScript | 3091 | 2026-11-04 | 1 | 1 |
-| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Python | 16730 | 2026-11-04 | 1 | 1 |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. | Python | 5674 | 2026-11-05 | 1 | 1 |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. | Python | 7812 | 2026-11-05 | 2 | 1 |
+| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) |  | C# | 7435 | 2026-11-05 | 2 | 1 |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. | Python | 3226 | 2026-11-05 | 2 | 1 |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | Python | 14890 | 2026-11-05 | 1 | 1 |
 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | C | 10485 | 2026-11-05 | 1 | 1 |
-| [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) |  | C# | 6801 | 2026-11-05 | 1 | 1 |
 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. | Shell | 30586 | 2026-11-05 | 1 | 1 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 用 AI 构建你专属的新闻雷达 | Python | 12678 | 2026-11-05 | 1 | 1 |
-| [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. | Python | 2593 | 2026-11-05 | 1 | 1 |
+| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | C | 12451 | 2026-11-06 | 1 | 1 |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Rust | 46070 | 2026-11-06 | 1 | 1 |
+| [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | JavaScript | 14292 | 2026-11-06 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -723,4 +726,4 @@
 | 2026-05 | 90 |
 | 2026-09 | 15 |
 | 2026-10 | 92 |
-| 2026-11 | 22 |
+| 2026-11 | 25 |
