@@ -1,10 +1,10 @@
 # 2026 Annual GitHub Trending Repositories Summary
 
-> Summary Date: 11/6/2026
+> Summary Date: 11/7/2026
 
 ## Statistics Overview
 
-- Total Repositories: 702
+- Total Repositories: 713
 - Summary Year: 2026
 
 ## Repository List
@@ -92,9 +92,9 @@
 | [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration | Python | 0 | 2026-01-13 | 5 | 3 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | TypeScript | 0 | 2026-01-13 | 2 | 2 |
 | [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | 0 | 2026-01-13 | 2 | 2 |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | 37924 | 2026-01-13 | 2 | 2 |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 1483 | 2026-01-13 | 1 | 1 |
 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫   知乎问答文章｜评论爬虫 | Python | 9373 | 2026-01-13 | 1 | 1 |
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | C | 3192 | 2026-01-13 | 1 | 1 |
 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | Source code for the X Recommendation Algorithm | Scala | 13144 | 2026-01-14 | 5 | 1 |
 | [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras | TypeScript | 0 | 2026-01-14 | 3 | 2 |
 | [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | M3U Playlist for free TV channels | Python | 1888 | 2026-01-14 | 2 | 1 |
@@ -470,7 +470,7 @@
 | [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Staging repo for development of native port of TypeScript | Go | 0 | 2026-04-25 | 2 | 1 |
 | [google/osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev | Go | 0 | 2026-04-25 | 1 | 1 |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs | Rust | 0 | 2026-04-25 | 1 | 1 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 315657 | 2026-04-26 | 26 | 4 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 316901 | 2026-04-26 | 27 | 4 |
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. | Python | 0 | 2026-04-26 | 5 | 1 |
 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. | Go | 0 | 2026-04-26 | 4 | 1 |
 | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Roo Code gives you a whole dev team of AI agents in your code editor. | TypeScript | 0 | 2026-04-26 | 1 | 1 |
@@ -606,8 +606,8 @@
 | [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) | [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons | Python | 1122 | 2026-10-02 | 1 | 1 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | Python | 103940 | 2026-10-03 | 5 | 1 |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. | Go | 112694 | 2026-10-03 | 3 | 1 |
+| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | 22930 | 2026-10-03 | 3 | 2 |
 | [getsentry/sentry](https://github.com/getsentry/sentry) | Developer-first error tracking and performance monitoring | Python | 45427 | 2026-10-03 | 3 | 1 |
-| [google/skills](https://github.com/google/skills) | Agent Skills for Google products and technologies | Python | 22502 | 2026-10-03 | 2 | 2 |
 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | Build production-ready applications in TypeScript | TypeScript | 16869 | 2026-10-03 | 2 | 1 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | JavaScript | 291054 | 2026-10-04 | 6 | 1 |
 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. | TypeScript | 11096 | 2026-10-04 | 2 | 1 |
@@ -625,7 +625,7 @@
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | TypeScript | 274846 | 2026-10-07 | 10 | 1 |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 54462 | 2026-10-07 | 8 | 1 |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output. | Python | 55333 | 2026-10-07 | 2 | 1 |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 47208 | 2026-10-08 | 7 | 1 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | 64370 | 2026-10-08 | 8 | 2 |
 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. | C | 8168 | 2026-10-08 | 2 | 1 |
 | [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 26175 | 2026-10-09 | 6 | 1 |
 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | Notes of the book System Desgin Interview - An Insider's Guide |  | 24872 | 2026-10-09 | 1 | 1 |
@@ -640,9 +640,9 @@
 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | JavaScript | 55692 | 2026-10-12 | 3 | 1 |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | Python | 155304 | 2026-10-13 | 1 | 1 |
 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. | Swift | 11040 | 2026-10-14 | 2 | 1 |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 121512 | 2026-10-15 | 2 | 2 |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | Java | 88943 | 2026-10-15 | 2 | 1 |
 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. | Python | 27641 | 2026-10-15 | 1 | 1 |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | Rust | 120115 | 2026-10-15 | 1 | 1 |
 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | WinUI app for building smaller, customized Windows 11 images. | C# | 20314 | 2026-10-15 | 1 | 1 |
 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs. | Rust | 7910 | 2026-10-16 | 3 | 1 |
 | [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) | TokenSpeed is a speed-of-light LLM inference engine. | Python | 2540 | 2026-10-16 | 1 | 1 |
@@ -703,16 +703,27 @@
 | [floci-io/floci](https://github.com/floci-io/floci) | Light, fluffy, and always free - The AWS Local Emulator alternative | Java | 30575 | 2026-11-04 | 3 | 1 |
 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 | Python | 17866 | 2026-11-04 | 2 | 1 |
 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) |  | TypeScript | 3091 | 2026-11-04 | 1 | 1 |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. | Python | 7812 | 2026-11-05 | 2 | 1 |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. | Python | 9282 | 2026-11-05 | 3 | 1 |
 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) |  | C# | 7435 | 2026-11-05 | 2 | 1 |
 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. | Python | 3226 | 2026-11-05 | 2 | 1 |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. | Python | 14890 | 2026-11-05 | 1 | 1 |
 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. | C | 10485 | 2026-11-05 | 1 | 1 |
 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. | Shell | 30586 | 2026-11-05 | 1 | 1 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. 用 AI 构建你专属的新闻雷达 | Python | 12678 | 2026-11-05 | 1 | 1 |
-| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | C | 12451 | 2026-11-06 | 1 | 1 |
+| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | C | 12643 | 2026-11-06 | 2 | 1 |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Browser automation CLI for AI agents | Rust | 46070 | 2026-11-06 | 1 | 1 |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | JavaScript | 14292 | 2026-11-06 | 1 | 1 |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | Rust | 93788 | 2026-11-07 | 1 | 1 |
+| [rails/rails](https://github.com/rails/rails) | Ruby on Rails | Ruby | 59051 | 2026-11-07 | 1 | 1 |
+| [react/react](https://github.com/react/react) | The library for web and native user interfaces. | JavaScript | 252301 | 2026-11-07 | 1 | 1 |
+| [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | TypeScript | 101413 | 2026-11-07 | 1 | 1 |
+| [symfony/symfony](https://github.com/symfony/symfony) | The Symfony PHP framework | PHP | 31471 | 2026-11-07 | 1 | 1 |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | Go | 67230 | 2026-11-07 | 1 | 1 |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code | TypeScript | 195070 | 2026-11-07 | 1 | 1 |
+| [nushell/nushell](https://github.com/nushell/nushell) | A new type of shell | Rust | 41014 | 2026-11-07 | 1 | 1 |
+| [etcd-io/etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical data of a distributed system | Go | 52637 | 2026-11-07 | 1 | 1 |
+| [openssl/openssl](https://github.com/openssl/openssl) | General purpose TLS and crypto library | C | 31326 | 2026-11-07 | 1 | 1 |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | An extremely fast Python linter and code formatter, written in Rust. | Rust | 50741 | 2026-11-07 | 1 | 1 |
 
 
 ## Monthly Distribution Statistics
@@ -726,4 +737,4 @@
 | 2026-05 | 90 |
 | 2026-09 | 15 |
 | 2026-10 | 92 |
-| 2026-11 | 25 |
+| 2026-11 | 36 |
